@@ -6,9 +6,11 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 ## Supported Clients
 
-|   | MCP Host | Documentation |
-| ------- | -------- | -------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" height="20"/> | [Claude Desktop](https://docs.anthropic.com/en/docs/claude-desktop/overview) | [Documentation](https://modelcontextprotocol.io/quickstart)
+|                                                                                                 | MCP Host                                         | Documentation                                             |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------- |
+| [<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" height="20"/></div>](https://www.claudedesktop.com/) | [Claude Desktop](https://www.claudedesktop.com/) | [Quick Start](https://modelcontextprotocol.io/quickstart) |
+| [<div align="center"><img src="https://zed.dev/_next/static/media/zed-logo.11b2d662.png" height="20"/></div>](https://zed.dev/) | [Zed Editor](https://zed.dev/) | [Zed MCP Extensions](https://zed.dev/blog/mcp) |
+| [<div align="center"><img src="https://sourcegraph.com/sourcegraph-logo.svg" height="20"/></div>](https://sourcegraph.com/cody) | [Sourcegraph Cody](https://sourcegraph.com/cody) | [Trying Cody with MCP](https://sourcegraph.com/blog/cody-supports-anthropic-model-context-protocol) |
 
 <br />
 
@@ -24,6 +26,12 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🗺️ - [Location Services](#location-services)
 - 🧠 - [Memory Systems](#memory-systems)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
+
+<br />
+
+## Tools & Utilities
+
+See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to help manage, configure, and work with MCP servers.
 
 <br />
 
@@ -112,6 +120,21 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
 
 <br />
+
+
+# Tools & Utilities
+
+> Tools that help manage, configure, and work with MCP servers. These utilities simplify the installation process and improve the user experience.
+
+### Server Managers
+
+- [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
+  - Supports NPM-based servers
+  - Automatic configuration generation
+  - Easy server management
+
+<br />
+
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
