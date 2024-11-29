@@ -32,6 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 > Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Direct local file system access.
+- [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Golang implementation for local file system access.
 
 <br />
 
