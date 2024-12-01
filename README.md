@@ -48,7 +48,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 📂 <a name="file-systems"></a>File Systems <sup><small>[top⇈](#server-implementations)</small></sup>
+## 📂 <a name="file-systems"></a>File Systems
 
 > Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
@@ -57,7 +57,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🔄 <a name="version-control"></a>Version Control <sup><small>[top⇈](#server-implementations)</small></sup>
+## 🔄 <a name="version-control"></a>Version Control
 
 > Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
@@ -68,7 +68,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## ☁️ <a name="cloud-storage"></a>Cloud Storage <sup><small>[top⇈](#server-implementations)</small></sup>
+## ☁️ <a name="cloud-storage"></a>Cloud Storage
 
 > Access and manage files stored in cloud storage platforms. Enables searching, reading, and organizing cloud-stored documents and data.
 
@@ -76,7 +76,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🗄️ <a name="databases"></a>Databases <sup><small>[top⇈](#server-implementations)</small></sup>
+## 🗄️ <a name="databases"></a>Databases
 
 > Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
 
@@ -86,7 +86,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 💬 <a name="communication"></a>Communication <sup><small>[top⇈](#server-implementations)</small></sup>
+## 💬 <a name="communication"></a>Communication
 
 > Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
@@ -94,7 +94,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 📊 <a name="monitoring"></a>Monitoring <sup><small>[top⇈](#server-implementations)</small></sup>
+## 📊 <a name="monitoring"></a>Monitoring
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
@@ -103,7 +103,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🧠 <a name="memory-systems"></a>Memory Systems <sup><small>[top⇈](#server-implementations)</small></sup>
+## 🧠 <a name="memory-systems"></a>Memory Systems
 
 > Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
@@ -115,7 +115,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🔍 <a name="search-web"></a>Search & Web <sup><small>[top⇈](#server-implementations)</small></sup>
+## 🔍 <a name="search-web"></a>Search & Web
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
@@ -131,7 +131,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🗺️ <a name="location-services"></a>Location Services <sup><small>[top⇈](#server-implementations)</small></sup>
+## 🗺️ <a name="location-services"></a>Location Services
 
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
@@ -139,7 +139,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## ⚡ <a name="cloud-platforms"></a>Cloud Platforms <sup><small>[top⇈](#server-implementations)</small></sup>
+## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
 
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
@@ -148,7 +148,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🤖 <a name="system-automation"></a>System Automation <sup><small>[top⇈](#server-implementations)</small></sup>
+## 🤖 <a name="system-automation"></a>System Automation
 
 > Tools for shell access, system control, and task automation. Enables AI models to execute commands and interact with the operating system.
 
@@ -156,7 +156,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 📱 <a name="social"></a>Social <sup><small>[top⇈](#server-implementations)</small></sup>
+## 📱 <a name="social"></a>Social
 
 > Integration with social media platforms and content sharing services. Enables interaction with social networks, media platforms, and content creation tools.
 
