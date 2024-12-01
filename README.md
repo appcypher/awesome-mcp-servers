@@ -118,6 +118,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
+- [Kubernetes MCP Server](https://github.com/strowk/awesome-mcp-servers) - Kubernetes cluster operations through MCP
 
 <br />
 
