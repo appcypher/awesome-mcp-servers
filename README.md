@@ -71,7 +71,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## ☁️ <a name="cloud-storage"></a>Cloud Storage
+## ☁�� <a name="cloud-storage"></a>Cloud Storage
 
 > Access and manage files stored in cloud storage platforms. Enables searching, reading, and organizing cloud-stored documents and data.
 
@@ -191,6 +191,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with AI and machine learning services.
 
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
+- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
 
 <br />
 
