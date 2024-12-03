@@ -71,7 +71,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## ☁�� <a name="cloud-storage"></a>Cloud Storage
+## ☁ <a name="cloud-storage"></a>Cloud Storage
 
 > Access and manage files stored in cloud storage platforms. Enables searching, reading, and organizing cloud-stored documents and data.
 
