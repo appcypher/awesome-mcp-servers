@@ -24,10 +24,13 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📊 - [Monitoring](#monitoring)
 - 🔍 - [Search & Web](#search-web)
 - 🗺️ - [Location Services](#location-services)
-- 🧠 - [Memory Systems](#memory-systems)
+- 🧠 - [Note Taking](#note-taking)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
 - 🤖 - [System Automation](#system-automation)
-- 📱 - [Social](#social)
+- 📱 - [Social Media](#social-media)
+- 💹 - [Finance](#finance)
+- 🧬 - [Research & Data](#research-data)
+- 🤝 - [AI Services](#ai-services)
 
 <sup><details>
 
@@ -103,19 +106,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🧠 <a name="memory-systems"></a>Memory Systems
-
-> Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
-
-- <img src="https://api.iconify.design/mdi:brain.svg?color=%2300C4B4" height="14"/> [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Knowledge graph-based persistent memory system for maintaining context
-- <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) <sup><sup>1</sup></sup> - Obsidian vault integration with tools for file management, search, and content manipulation
-- <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/calclavia/mcp-obsidian) <sup><sup>2</sup></sup> - Alternative implementation for reading and searching Markdown notes
-- <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp) <sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
-- <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server) <sup><sup>2</sup></sup> - Alternative implementation for Notion API integration
-
-<br />
-
-## 🔍 <a name="search-web"></a>Search & Web
+## 🧠 <a name="search-web"></a>Search & Web
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
@@ -139,6 +130,18 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+## 📝 <a name="note-taking"></a>Note Taking
+
+> Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
+
+- <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) <sup><sup>1</sup></sup> - Obsidian vault integration with tools for file management, search, and content manipulation
+- <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/calclavia/mcp-obsidian) <sup><sup>2</sup></sup> - Alternative implementation for reading and searching Markdown notes
+- <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp) <sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
+- <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server) <sup><sup>2</sup></sup> - Alternative implementation for Notion API integration
+- <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Notes](https://github.com/sirmews/apple-notes-mcp) - Read from local Apple Notes database (macOS only)
+
+<br />
+
 ## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
 
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
@@ -156,18 +159,38 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 📱 <a name="social"></a>Social
+## 📱 <a name="social-media"></a>Social Media
 
-> Integration with social media platforms and content sharing services. Enables interaction with social networks, media platforms, and content creation tools.
+> Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
 - <img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube) <sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) <sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
-- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
-- <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Notes](https://github.com/sirmews/apple-notes-mcp) - Read from local Apple Notes database (macOS only)
+
+<br />
+
+## 💹 <a name="finance"></a>Finance
+
+> Financial data and cryptocurrency information services.
+
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
-- <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server) - Alternative implementation for Notion API integration
+
+<br />
+
+## 🧬 <a name="research-data"></a>Research & Data
+
+> Access to research papers, genetic data, and specialized datasets.
+
+- <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
+
+<br />
+
+## 🤝 <a name="ai-services"></a>AI Services
+
+> Integration with AI and machine learning services.
+
+- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 
 <br />
 
