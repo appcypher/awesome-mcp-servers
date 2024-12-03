@@ -24,7 +24,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📊 - [Monitoring](#monitoring)
 - 🔍 - [Search & Web](#search-web)
 - 🗺️ - [Location Services](#location-services)
-- 🧠 - [Note Taking](#note-taking)
+- 📝 - [Note Taking](#note-taking)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
 - 🤖 - [System Automation](#system-automation)
 - 📱 - [Social Media](#social-media)
@@ -106,7 +106,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 🧠 <a name="search-web"></a>Search & Web
+## 🔍 <a name="search-web"></a>Search & Web
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
