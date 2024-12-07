@@ -32,7 +32,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 💹 - [Finance](#finance)
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
-- 📦 - [Sandbox](#sandbox)
+- 📦 - [Virtualization](#virtualization)
 - 💻 - [Development Tools](#development-tools)
 
 <sup><details>
@@ -211,11 +211,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 📦 <a name="sandbox"></a>Sandbox
+## 📦 <a name="virtualization"></a>Virtualization
 
 > Secure sandbox environments for code execution and testing. Enables safe execution of code snippets and development workflows.
 
 - <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server) - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
+- <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker]( https://github.com/QuantGeekDev/docker-mcp) - A Model Context Protocol (MCP) server for Docker operations, enabling seamless container and compose stack management.
 
 <br />
 
