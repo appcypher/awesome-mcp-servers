@@ -115,6 +115,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
 - <img src="https://raygun.com/favicon.ico" height="14"/> [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
+- <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
 
 <br />
 
