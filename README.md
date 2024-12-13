@@ -6,14 +6,13 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 ## Supported Clients
 
-|                                                                                                                                                                                 | MCP Host                                         | Documentation                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [<div align="center"><img src="https://claude.ai/favicon.ico" height="20"/></div>](https://www.claudedesktop.com/)                                                              | [Claude Desktop](https://www.claudedesktop.com/) | [Quick Start](https://modelcontextprotocol.io/quickstart)                                           |
-| [<div align="center"><img src="https://zed.dev/_next/static/media/zed-logo.11b2d662.png" height="20"/></div>](https://zed.dev/)                                                 | [Zed Editor](https://zed.dev/)                   | [Zed MCP Extensions](https://zed.dev/blog/mcp)                                                      |
-| [<div align="center"><img src="https://storage.googleapis.com/sourcegraph-assets/docs/images/cody/cody-logomark-default.svg" height="20"/></div>](https://sourcegraph.com/cody) | [Sourcegraph Cody](https://sourcegraph.com/cody) | [Trying Cody with MCP](https://sourcegraph.com/blog/cody-supports-anthropic-model-context-protocol) |
-| [<div align="center"><img src="https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/664c918ec47bacdd3acdc167_favicon%408x.png" height="20"/></div>](https://sourcegraph.com/cody) | [Continue](https://www.continue.dev/) | [Continue x MCP](https://blog.continue.dev/model-context-protocol) |
-| [<div align="center"><img src="https://github.com/user-attachments/assets/211d0c2b-04de-471e-b1ed-97da94a58d82" height="20"/></div>](https://github.com/Upsonic/gpt-computer-assistant) | [GPT Computer Assistant](https://github.com/Upsonic/gpt-computer-assistant) | [GCA x MCP](https://github.com/Upsonic/gpt-computer-assistant) |
-
+|                                                                                                                                                                                          | MCP Host                                                                    | Documentation                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [<div align="center"><img src="https://claude.ai/favicon.ico" height="20"/></div>](https://www.claudedesktop.com/)                                                                       | [Claude Desktop](https://www.claudedesktop.com/)                            | [Quick Start](https://modelcontextprotocol.io/quickstart)                                           |
+| [<div align="center"><img src="https://zed.dev/_next/static/media/zed-logo.11b2d662.png" height="20"/></div>](https://zed.dev/)                                                          | [Zed Editor](https://zed.dev/)                                              | [Zed MCP Extensions](https://zed.dev/blog/mcp)                                                      |
+| [<div align="center"><img src="https://storage.googleapis.com/sourcegraph-assets/docs/images/cody/cody-logomark-default.svg" height="20"/></div>](https://sourcegraph.com/cody)          | [Sourcegraph Cody](https://sourcegraph.com/cody)                            | [Trying Cody with MCP](https://sourcegraph.com/blog/cody-supports-anthropic-model-context-protocol) |
+| [<div align="center"><img src="https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/664c918ec47bacdd3acdc167_favicon%408x.png" height="20"/></div>](https://sourcegraph.com/cody) | [Continue](https://www.continue.dev/)                                       | [Continue x MCP](https://blog.continue.dev/model-context-protocol)                                  |
+| [<div align="center"><img src="https://github.com/user-attachments/assets/211d0c2b-04de-471e-b1ed-97da94a58d82" height="20"/></div>](https://github.com/Upsonic/gpt-computer-assistant)  | [GPT Computer Assistant](https://github.com/Upsonic/gpt-computer-assistant) | [GCA x MCP](https://github.com/Upsonic/gpt-computer-assistant)                                      |
 
 <br />
 
@@ -24,7 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - ☁️ - [Cloud Storage](#cloud-storage)
 - 🗄️ - [Databases](#databases)
 - 💬 - [Communication](#communication)
-- 📊 - [Monitoring](#monitoring)
+- 📈 - [Monitoring](#monitoring)
 - 🔍 - [Search & Web](#search-web)
 - 🗺️ - [Location Services](#location-services)
 - 📝 - [Note Taking](#note-taking)
@@ -36,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🤝 - [AI Services](#ai-services)
 - 📦 - [Virtualization](#virtualization)
 - 💻 - [Development Tools](#development-tools)
+- 📊 - [Data Visualization](#data-visualization)
 
 <sup><details>
 
@@ -97,7 +97,6 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" height="14"/> [Qdrant](https://github.com/qdrant/mcp-server-qdrant/)<sup><sup>⭐</sup></sup> - A Qdrant MCP server for keeping and retrieving memories in the Qdrant vector search engine.
 - <img src="https://cdn.simpleicons.org/mongodb/47A248" height="14"/> [MongoDB](https://github.com/kiliczsh/mcp-mongo-server) - A Model Context Protocol Server for querying and analyzing MongoDB collections.
 - <img src="https://cdn.simpleicons.org/mysql" height="14"/> [MySQL](https://github.com/designcomputer/mysql_mcp_server) - MySQL database integration with configurable access controls and schema inspection
-- <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer
 
 <br />
 
@@ -110,7 +109,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-## 📊 <a name="monitoring"></a>Monitoring
+## 📈 <a name="monitoring"></a>Monitoring
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
@@ -215,7 +214,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
 - <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
 - <img src="https://cloud.llamaindex.ai/favicon.ico" height="14"/> [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - LlamaCloud MCP Server. A TypeScript-based MCP server connecting to a managed index on LlamaCloud.
-- <img src="https://huggingface.co/favicon.ico" height="14"/>[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more. Claude Desktop mode for ease-of-use. 
+- <img src="https://huggingface.co/favicon.ico" height="14"/>[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
 
 <br />
 
@@ -224,13 +223,23 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Secure sandbox environments for code execution and testing. Enables safe execution of code snippets and development workflows.
 
 - <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
-- <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker]( https://github.com/QuantGeekDev/docker-mcp) - A Model Context Protocol (MCP) server for Docker operations, enabling seamless container and compose stack management.
+- <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - A Model Context Protocol (MCP) server for Docker operations, enabling seamless container and compose stack management.
 
 <br />
 
 ## 💻 <a name="development-tools"></a>Development Tools
 
+> Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
+
 - <img src="https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png" height="14"/> [OpenRPC](https://github.com/shanejonas/openrpc-mpc-server) - A Model Context Protocol server that provides JSON-RPC functionality through OpenRPC.
+
+<br />
+
+## 📊 <a name="data-visualization"></a>Data Visualization
+
+> Tools for creating and managing data visualizations. Enables generation of charts, graphs, and other visual representations of data.
+
+- <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer
 
 <br />
 
