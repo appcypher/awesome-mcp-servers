@@ -233,7 +233,11 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
 - <img src="https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png" height="14"/> [OpenRPC](https://github.com/shanejonas/openrpc-mpc-server) - A Model Context Protocol server that provides JSON-RPC functionality through OpenRPC.
+- <img src="https://cdn.simpleicons.org/postman" height="14" /> [Postman](https://github.com/delano/postman-mcp-server) - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/).
 
+
+
+  
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
