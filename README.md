@@ -100,6 +100,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/mysql" height="14"/> [MySQL](https://github.com/designcomputer/mysql_mcp_server) - MySQL database integration with configurable access controls and schema inspection
 - <img src="https://cdn.simpleicons.org/airtable" height="14"/> [Airtable](https://github.com/domdomegg/airtable-mcp-server) - Read and write access to Airtable databases, with schema inspection.
 - <img src="https://cdn.simpleicons.org/snowflake" height="14"/> [Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server) - Snowflake database integration with read/write capabilities and insight tracking.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak MCP](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for Keycloak user and realm management through natural language.
 
 <br />
 
