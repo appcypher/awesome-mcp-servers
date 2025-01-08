@@ -36,6 +36,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📦 - [Virtualization](#virtualization)
 - 💻 - [Development Tools](#development-tools)
 - 📊 - [Data Visualization](#data-visualization)
+- 🆔 - [Identity](#identity)
 
 <sup><details>
 
@@ -248,6 +249,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for creating and managing data visualizations. Enables generation of charts, graphs, and other visual representations of data.
 
 - <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer
+
+<br />
+
+## 🆔 <a name="identity"></a>Identity
+
+> Tools for identity and access management. Enables user authentication, authorization.
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
 
