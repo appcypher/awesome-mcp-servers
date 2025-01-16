@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📈 - [Monitoring](#monitoring)
 - 🔍 - [Search & Web](#search-web)
 - 🗺️ - [Location Services](#location-services)
+- 🎯 - [Marketing](#marketing)
 - 📝 - [Note Taking](#note-taking)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
 - 🤖 - [System Automation](#system-automation)
