@@ -158,6 +158,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 
+<br />
+
 ## 📝 <a name="note-taking"></a>Note Taking
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
