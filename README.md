@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📈 - [Monitoring](#monitoring)
 - 🔍 - [Search & Web](#search-web)
 - 🗺️ - [Location Services](#location-services)
+- 🎯 - [Marketing](#marketing)
 - 📝 - [Note Taking](#note-taking)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
 - 🤖 - [System Automation](#system-automation)
@@ -148,6 +149,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
+
+<br />
+
+## 🎯 <a name="marketing"></a>Marketing
+
+> Tools that help marketers write better content and run better campaigns.
+
+- <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 
 <br />
 
