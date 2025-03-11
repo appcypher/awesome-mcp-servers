@@ -216,6 +216,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
+- <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network 
 
 <br />
 
