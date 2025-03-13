@@ -58,7 +58,7 @@
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server)** - Snowflake database integration with read/write capabilities and insight tracking
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
-- **[PBS API](https://github.com/matthewdcage/pbs-mcp-server)** - Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability.
+- **[PBS API](https://github.com/matthewdcage/pbs-mcp-server)** - 🐍 ☁️ Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability. Built with Python and FastAPI.
 - **[Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes)** - Talk with your Apple Notes
 - **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
 - **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
@@ -98,7 +98,7 @@
 
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
-- **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic’s Model Context Protocol implementation for Oat++
+- **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 ---
 
