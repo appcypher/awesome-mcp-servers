@@ -241,7 +241,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
 
-- <img src="https://api.iconify.design/mdi:pill.svg?color=%2300A4E4" height="14"/> [PBS API](https://github.com/mcpx-dev/pbs-public-api-mcp) - Access Australian Pharmaceutical Benefits Scheme data
+- <img src="https://api.iconify.design/mdi:pill.svg?color=%2300A4E4" height="14"/> [PBS API](https://github.com/matthewdcage/pbs-mcp-server) - Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability
 <br />
 
 ## 🤝 <a name="ai-services"></a>AI Services
