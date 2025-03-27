@@ -230,7 +230,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Gaming data and Game Development tools.
 
-- <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="14"/> [Unity3d](https://github.com/CoderGamester/mcp-unity) - Unity3d Game Engine integration for game development
+- <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity3d](https://github.com/CoderGamester/mcp-unity) - Unity3d Game Engine integration for game development
 
 <br />
 
