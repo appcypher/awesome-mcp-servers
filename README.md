@@ -37,6 +37,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - ⚙️ - [Workflow Automation](#workflow-automation)
 - 🤖 - [System Automation](#system-automation)
 - 📱 - [Social Media](#social-media)
+- 🎮 - [Gaming](#gaming)
 - 💹 - [Finance](#finance)
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
@@ -223,6 +224,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
+
+<br />
+
+## 🎮 <a name="gaming"></a>Gaming
+
+> Gaming data and Game Development tools.
+
+- <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity3d](https://github.com/CoderGamester/mcp-unity) - Unity3d Game Engine integration for game development
 
 <br />
 
