@@ -45,6 +45,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 💻 - [Development Tools](#development-tools)
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
+- 🔗 - [Aggregators](#aggregators)
 
 <sup><details>
 
@@ -310,6 +311,16 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+
+<br />
+
+## 🔗 <a name="aggregators"></a>Aggregators
+
+> Tools for accessing many apps and tools through a single MCP server..
+
+- <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+ 
+- <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
 <br />
 
