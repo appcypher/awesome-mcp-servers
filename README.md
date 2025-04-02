@@ -293,6 +293,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" height="14" /> [marimo](https://github.com/marimo-team/codemirror-mcp)<sup><sup>⭐</sup></sup> - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
 - <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp)<sup><sup>⭐</sup></sup> - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
+- <img src="https://img.icons8.com/?size=14&id=17515&format=png" height="14" /> [Vibe Model Context Protocol Server](https://github.com/non-npc/Vibe-Model-Context-Protocol-Server) - A Python-based server for managing and analyzing code context for AI-assisted development, without the monthly costs of a subscription API.
 - <img src="https://vscode.dev/static/stable/favicon.ico" height="14" /> [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode ide and allows using semantic tools like `find_usages`
 
 <br />
