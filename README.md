@@ -23,6 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 ## Server Implementations
 
+- 🌎 - [Translation Services](#translation-services)
 - 📂 - [File Systems](#file-systems)
 - 🔄 - [Version Control](#version-control)
 - ☁️ - [Cloud Storage](#cloud-storage)
@@ -64,6 +65,12 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to help manage, configure, and work with MCP servers.
 
 <br />
+
+## 🌎 <a name="translation-services"></a>Translation Services
+
+> Provides real-time translation of text, documents, and content between multiple languages.
+
+- <img src="https://laratranslate.com/favicon.ico" height="14"/> [Lara](https://github.com/translated/lara-mcp) - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations
 
 ## 📂 <a name="file-systems"></a>File Systems
 
