@@ -155,6 +155,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://github.com/user-attachments/assets/6f9c9a70-01c8-4255-abbe-66faf146970e" height="14"> [PapersWithCode](https://github.com/hbg/mcp-paperswithcode) - Search research papers, conferences, and codebases through PapersWithCode API
 - <img src="https://playwright.dev/img/playwright-logo.svg" height="14"/> [Playwright](https://github.com/executeautomation/mcp-playwright) - A Model Context Protocol server that provides browser automation capabilities using Playwright.
 - <img src="https://cdn.simpleicons.org/searxng" height="14"/> [Websearch](https://github.com/mnhlt/WebSearch-MCP) - Self-hosted Websearch service.
+- <img src="https://cdn.simpleicons.org/firefoxbrowser" height="14"/> [Browser Control](https://github.com/eyalzh/browser-control-mcp) - An MCP server paired with a browser extension allowing local browser control. 
 
 <br />
 
