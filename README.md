@@ -161,6 +161,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://github.com/user-attachments/assets/6f9c9a70-01c8-4255-abbe-66faf146970e" height="14"> [PapersWithCode](https://github.com/hbg/mcp-paperswithcode) - Search research papers, conferences, and codebases through PapersWithCode API
 - <img src="https://playwright.dev/img/playwright-logo.svg" height="14"/> [Playwright](https://github.com/executeautomation/mcp-playwright) - A Model Context Protocol server that provides browser automation capabilities using Playwright.
 - <img src="https://cdn.simpleicons.org/searxng" height="14"/> [Websearch](https://github.com/mnhlt/WebSearch-MCP) - Self-hosted Websearch service.
+- <img src="https://blog.apify.com/content/images/2025/02/Apify_logo.png" height="14"/> [Apify Actors](https://github.com/apify/actors-mcp-server) - Use 4,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search engines, maps, and more.
+- <img src="https://blog.apify.com/content/images/2025/02/Apify_logo.png" height="14"/> [RAG Web Browser](https://github.com/apify/mcp-server-rag-web-browser) - An MCP server for Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height=14 /" [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 
 <br />
