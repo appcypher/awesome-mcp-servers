@@ -116,6 +116,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/snowflake" height="14"/> [Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server) - Snowflake database integration with read/write capabilities and insight tracking.
 - <img src="https://jiejue.obs.ap-southeast-1.myhuaweicloud.com/20250209205317622.webp" height="14"/> [DBUtils](https://github.com/donghao1393/mcp-dbutils) - A unified database access service for MCP that seamlessly integrates PostgreSQL and SQLite with a clean abstraction layer.
 - <img src="https://www.pingcap.com/favicon.ico" height="14"/> [TiDB](https://github.com/c4pt0r/mcp-server-tidb) - MCP server implementation for TiDB (serverless) database.
+- <img src="https://cdn.nocodb.com/marketing-site/20250120104552/images/favicon.png" height="14"/> [NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server) - Read and write access to NocoDB database.
 
 <br />
 
