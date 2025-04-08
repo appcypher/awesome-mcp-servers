@@ -188,6 +188,15 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+## 🔌 <a name="iot"></a>IoT & MQTT
+
+> Internet of Things connectivity and MQTT broker integrations. Enables AI agents to interact with IoT devices and messaging systems.
+
+- <img src="https://avatars.githubusercontent.com/u/66228869?s=200&v=4" height="14"/> [Coreflux MQTT](https://github.com/CorefluxCommunity/CorefluxMCPServer) - MCP server for the Coreflux MQTT broker, enabling AI agents to transfom the broker into a automation hub and interact with IoT devices and messaging systems through the MQTT protocol. 
+
+
+<br />
+
 ## 📝 <a name="note-taking"></a>Note Taking
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
