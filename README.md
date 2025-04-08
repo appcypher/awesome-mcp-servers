@@ -46,6 +46,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 💻 - [Development Tools](#development-tools)
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
+- 💬 - [Language & Translation](#language)
 
 <sup><details>
 
@@ -65,12 +66,6 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to help manage, configure, and work with MCP servers.
 
 <br />
-
-## 🌎 <a name="translation-services"></a>Translation Services
-
-> Provides real-time translation of text, documents, and content between multiple languages.
-
-- <img src="https://laratranslate.com/favicon.ico" height="14"/> [Lara](https://github.com/translated/lara-mcp) - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations
 
 ## 📂 <a name="file-systems"></a>File Systems
 
@@ -317,6 +312,15 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+
+<br />
+
+
+## 🌎 <a name="translation-services"></a>Language & Translation
+
+> Provides real-time translation of text, documents, and content between multiple languages.
+
+- <img src="https://laratranslate.com/favicon.ico" height="14"/> [Lara](https://github.com/translated/lara-mcp)<sup><sup>⭐</sup></sup> - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations
 
 <br />
 
