@@ -23,7 +23,6 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 ## Server Implementations
 
-- 🌎 - [Translation Services](#translation-services)
 - 📂 - [File Systems](#file-systems)
 - 🔄 - [Version Control](#version-control)
 - ☁️ - [Cloud Storage](#cloud-storage)
