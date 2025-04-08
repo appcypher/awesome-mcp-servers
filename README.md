@@ -44,6 +44,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 💻 - [Development Tools](#development-tools)
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
+- 🔗 - [Aggregators](#aggregators)
 - 💬 - [Language & Translation](#language)
 - 🔒 - [Security)(#security)
 
@@ -323,6 +324,16 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+## 🔗 <a name="aggregators"></a>Aggregators
+
+> Tools for accessing many apps and tools through a single MCP server..
+
+- <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+ 
+- <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
+
+<br />
+
 ## 💬 <a name="language"></a>Language & Translation
 
 > Provides real-time translation of text, documents, and content between multiple languages.
@@ -336,9 +347,6 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
-
-<br />
-
 
 <br />
 
