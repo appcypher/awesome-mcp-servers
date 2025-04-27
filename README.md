@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔗 - [Aggregators](#aggregators)
 - 💬 - [Language & Translation](#language)
 - 🔒 - [Security)(#security)
+- 🧑‍🎨 - [Art & Literature](#art-literature)
 
 <sup><details>
 
@@ -355,6 +356,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
+
+<br />
+
+## 🧑‍🎨 <a name="art-literature"></a>Art & Literature
+
+> Art and literature services.
+
+- [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
 
