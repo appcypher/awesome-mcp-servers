@@ -50,6 +50,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔗 - [Aggregators](#aggregators)
 - 💬 - [Language & Translation](#language)
 - 🔒 - [Security)(#security)
+- 🔌 - [IoT](#iot)
 
 <sup><details>
 
@@ -355,6 +356,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
+
+<br />
+
+## 🔌 <a name="iot"></a>IoT
+
+> Tools that integrate with Internet of Things connectivity.
+
+- <img src="https://avatars.githubusercontent.com/u/66228869?s=200&v=4" height="14"/> [Coreflux MQTT](https://github.com/CorefluxCommunity/CorefluxMCPServer) - MCP server for the Coreflux MQTT broker, enabling AI agents to transfom the broker into a automation hub and interact with IoT devices and messaging systems through the MQTT protocol. 
 
 <br />
 
