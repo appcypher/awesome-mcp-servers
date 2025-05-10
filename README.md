@@ -50,8 +50,10 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🆔 - [Identity](#identity)
 - 🔗 - [Aggregators](#aggregators)
 - 💬 - [Language & Translation](#language)
+- 🔒 - [Security)(#security)
 - 🔒 - [Security](#security)
 - 🔌 - [IoT](#iot)
+- 🧑‍🎨 - [Art & Literature](#art-literature)
 
 <sup><details>
 
@@ -381,6 +383,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools that integrate with Internet of Things connectivity.
 
 - <img src="https://avatars.githubusercontent.com/u/66228869?s=200&v=4" height="14"/> [Coreflux MQTT](https://github.com/CorefluxCommunity/CorefluxMCPServer) - MCP server for the Coreflux MQTT broker, enabling AI agents to transfom the broker into a automation hub and interact with IoT devices and messaging systems through the MQTT protocol. 
+
+<br />
+
+## 🧑‍🎨 <a name="art-literature"></a>Art & Literature
+
+> Art and literature services.
+
+- <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
 
