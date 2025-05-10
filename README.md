@@ -340,7 +340,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for creating and managing data visualizations. Enables generation of charts, graphs, and other visual representations of data.
 
-- <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer
+- <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer.
+- <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" height="14"/> [Chart](https://github.com/antvis/mcp-server-chart) - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 
 <br />
 
