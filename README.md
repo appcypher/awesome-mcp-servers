@@ -388,6 +388,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
   - Automatic configuration generation
   - Easy server management
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
+- [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 
 <br />
 
