@@ -319,6 +319,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
 - <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp)<sup><sup>⭐</sup></sup> - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
 - <img src="https://vscode.dev/static/stable/favicon.ico" height="14" /> [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode ide and allows using semantic tools like `find_usages`
+- <img src="https://mastra.ai/favicon/icon.svg" height="14" /> [Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)<sup><sup>⭐</sup></sup> - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 - <img src="https://github.com/user-attachments/assets/9d517481-c4cd-4b6c-903a-878531c9d881" height="14" /> [Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol) - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - <img src="https://edgeone.ai/favicon.ico" height="14" /> [EdgeOne Pages](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 
