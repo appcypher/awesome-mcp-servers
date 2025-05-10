@@ -100,6 +100,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Access and manage files stored in cloud storage platforms. Enables searching, reading, and organizing cloud-stored documents and data.
 
 - <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="14"/> [Google Drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - Google Drive integration for file access, search, and management
+- <img src="https://www.microsoft.com/favicon.ico" height="14"/> [Microsoft 365](https://github.com/softeria/ms-365-mcp-server) - MCP server that connects to the whole Microsoft 365 suite using Graph API (including mail, files, Excel, calendar)
 
 <br />
 
