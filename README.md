@@ -193,6 +193,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ## 📝 <a name="note-taking"></a>Note Taking
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
+- <img src="https://static.wikia.nocookie.net/logopedia/images/2/25/Apple_Books_%28iOS%29_2024_dark.svg/revision/latest?cb=20240616234654" height="14"/> [Apple Books](https://github.com/vgnshiyer/apple-books-mcp) - Transform your Apple Books to a queryable knowledge base.
 - <img src="https://github.com/onebirdrocks/ebook-mcp/raw/refs/heads/main/favicon.png" alt="ebook-mcp Logo" height="14" /> [eBook-mcp](https://github.com/onebirdrocks/ebook-mcp) - A lightweight MCP server that allows LLMs to read and interact with your personal PDF and EPUB ebooks on your local machine. Ideal for building AI reading assistants or chat-based ebook interfaces.
 - <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)<sup><sup>1</sup></sup> - Obsidian vault integration with tools for file management, search, and content manipulation
 - <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/calclavia/mcp-obsidian)<sup><sup>2</sup></sup> - Alternative implementation for reading and searching Markdown notes
