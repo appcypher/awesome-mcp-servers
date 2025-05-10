@@ -49,7 +49,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🆔 - [Identity](#identity)
 - 🔗 - [Aggregators](#aggregators)
 - 💬 - [Language & Translation](#language)
-- 🔒 - [Security)(#security)
+- 🔒 - [Security](#security)
 - 🔌 - [IoT](#iot)
 
 <sup><details>
@@ -389,6 +389,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
