@@ -370,7 +370,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
-
+- <img src="https://www.netwrix.com/favicon.ico" height="14"/> [Netwrix](https://github.com/netwrix/mcp-server-naa)<sup><sup>⭐</sup></sup> - A FastMCP-based server for [Netwrix Access Analyzer](https://www.netwrix.com/access-analyzer.html) data analysis, designed for enhanced data analysis capabilities.
 <br />
 
 ## 🔌 <a name="iot"></a>IoT
