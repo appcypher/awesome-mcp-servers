@@ -51,7 +51,6 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🆔 - [Identity](#identity)
 - 🔗 - [Aggregators](#aggregators)
 - 💬 - [Language & Translation](#language)
-- 🔒 - [Security)(#security)
 - 🔒 - [Security](#security)
 - 🔌 - [IoT](#iot)
 - 🧑‍🎨 - [Art & Literature](#art-literature)
