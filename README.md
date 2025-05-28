@@ -28,6 +28,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 ## Server Implementations
 
 - 📂 - [File Systems](#file-systems)
+- 📦 - [Sandbox & Virtualization](#virtualization)
 - 🔄 - [Version Control](#version-control)
 - ☁️ - [Cloud Storage](#cloud-storage)
 - 🗄️ - [Databases](#databases)
@@ -45,7 +46,6 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 💹 - [Finance](#finance)
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
-- 📦 - [Virtualization](#virtualization)
 - 💻 - [Development Tools](#development-tools)
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
@@ -83,6 +83,16 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/files/4A90E2" height="14"/> [FileSystem](https://github.com/mark3labs/mcp-filesystem-server)<sup><sup>2</sup></sup> - Golang implementation for local file system access
 - <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> [Everything Search](https://github.com/mamertofabian/mcp-everything-search) - Lightning-fast Windows file search powered by Everything SDK
 - <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> [llm-context](https://github.com/cyberchitta/llm-context.py) - Share code context with LLMs via Model Context Protocol or clipboard
+
+<br />
+
+## 📦 <a name="virtualization"></a>Sandbox & Virtualization
+
+> Secure sandbox environments for code execution and testing. Enables safe execution of code snippets and development workflows.
+
+- <img src="https://docs.microsandbox.dev/favicon.ico" height="14"/> [Microsandbox](https://github.com/microsandbox/microsandbox)<sup><sup>⭐</sup></sup> - Self-hosted platform for secure execution of AI code. Great for Code Interpreter, Data Analysis, Browser Use.
+- <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
+- <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - An MCP server for Docker operations, enabling seamless container and compose stack management.
 
 <br />
 
@@ -304,15 +314,6 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://piapi.ai/piapi_favicon.webp" height="14"> [PiAPI](https://github.com/apinetwork/piapi-mcp-server) - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) -  Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
-
-<br />
-
-## 📦 <a name="virtualization"></a>Virtualization
-
-> Secure sandbox environments for code execution and testing. Enables safe execution of code snippets and development workflows.
-
-- <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
-- <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - An MCP server for Docker operations, enabling seamless container and compose stack management.
 
 <br />
 
