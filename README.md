@@ -114,7 +114,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="14"/> [Google Drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - Google Drive integration for file access, search, and management
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - A serverless video database to easily store, index, search, and stream videos. VideoDB uses AI to automatically tag scenes, generate accurate transcriptions, and quickly retrieve video moments with simple queries.
-- <img src="https://www.microsoft.com/favicon.ico" height="14"/> [Microsoft 365](https://github.com/softeria/ms-365-mcp-server) - MCP server that connects to the whole Microsoft 365 suite using Graph API (including mail, files, Excel, calendar)
+- <img src="https://www.microsoft.com/favicon.ico" height="14"/> [Microsoft 365](https://github.com/softeria/ms-365-mcp-server) - MCP server that connects to the whole Microsoft 365 suite (Microsoft Office, Outlook, etc.) using Graph API (including mail, files, Excel, calendar)
 
 <br />
 
