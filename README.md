@@ -245,6 +245,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with workflow automation platforms allows AI models to execute workflows and retrieve data back to their systems.
 
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
+- <img src="https://www.taskade.com/favicon.ico" height="14"/> [Taskade MCP](https://github.com/taskade/mcp)<sup><sup>⭐</sup></sup> - Official Taskade MCP server + OpenAPI → MCP codegen to build AI agent tools from any API and connect Taskade to Claude, Cursor, and more.
 
 <br />
 
