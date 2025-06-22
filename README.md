@@ -342,6 +342,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://github.com/user-attachments/assets/9d517481-c4cd-4b6c-903a-878531c9d881" height="14" /> [Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol) - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - <img src="https://edgeone.ai/favicon.ico" height="14" /> [EdgeOne Pages](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - <img src="https://cdn.jsdelivr.net/gh/jsdelivr/globalping-media@refs/heads/master/icons/android-chrome-192x192.png" height="14" /> [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server)<sup><sup>⭐</sup></sup> - Access a network of thousands of probes to run network commands like ping, traceroute, mtr, http and DNS resolve.
+- [AI Distiller](https://github.com/janreges/ai-distiller) - Extracts essential code structure from large codebases into AI-digestible format, helping AI agents write code that correctly uses existing APIs on the first attempt. Supports 12+ languages via tree-sitter.
 
 <br />
 
