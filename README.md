@@ -352,6 +352,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer.
 - <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" height="14"/> [Chart](https://github.com/antvis/mcp-server-chart) - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - <img src="https://mermaid.js.org/favicon.svg" height="14"/> [Mermaid](https://github.com/hustcc/mcp-mermaid) - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
+- <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [unified-diff-mcp](https://github.com/gorosun/unified-diff-mcp) - Generate visual diff comparisons from text changes with HTML/PNG export. Perfect for code reviews and document analysis with side-by-side visualization.
 
 <br />
 
