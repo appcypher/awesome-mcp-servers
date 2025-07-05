@@ -287,6 +287,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://cdn4.singleinterface.com/files/outlet/logo/346970/brand_LOGO_png.png" height="14"/> [Angel One](https://github.com/bhavesh0009/angel-one-mcp-server) - Comprehensive trading and market data server for Angel One SmartAPI with 25+ tools, portfolio management, real-time data, GTT rules, and option Greeks
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
