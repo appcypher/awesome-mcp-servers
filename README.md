@@ -234,6 +234,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
+- <img src="https://liquidmetal.ai/favicon.svg" height="14"/> [Raindrop](https://github.com/liquidmetal-ai/raindrop-mcp)<sup><sup>⭐</sup></sup> - Enables Claude Code to directly provision, deploy, and manage production infrastructure through MCP - build and ship entire apps through conversation
 - <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)<sup><sup>⭐</sup></sup> - Integration with Cloudflare services including Workers, KV, R2, and D1
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/strowk/mcp-k8s-go) - Kubernetes cluster operations through MCP
 - <img src="https://tinybird.co/favicon.ico" height="14"/> [Tinybird](https://github.com/tinybirdco/mcp-tinybird)<sup><sup>⭐</sup></sup> - Interact with a Tinybird Workspace from any MCP client.
