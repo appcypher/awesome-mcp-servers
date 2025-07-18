@@ -75,6 +75,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔒 - [Security](#security)
 - 🔌 - [IoT](#iot)
 - 🧑‍🎨 - [Art & Literature](#art-literature)
+- 🛒 - [E-Commerce](#e-commerce)
 - 📦 - [Data Platforms](#data-platforms)
 
 <sup><details>
@@ -443,6 +444,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+
+<br />
+
+## 🛒 <a name="e-commerce"></a>E-Commerce
+
+> E-Commerce platforms.
+
+- <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 
 <br />
 
