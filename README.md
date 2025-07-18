@@ -75,6 +75,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔒 - [Security](#security)
 - 🔌 - [IoT](#iot)
 - 🧑‍🎨 - [Art & Literature](#art-literature)
+- 📦 - [Data Platforms](#data-platforms)
 
 <sup><details>
 
@@ -428,6 +429,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+
+<br />
+
+## 📦 <a name="data-platforms"></a>Data Platforms
+
+> Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
+
+- <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 
 <br />
 
