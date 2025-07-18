@@ -237,6 +237,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
+- <img src="https://avatars.githubusercontent.com/u/215026595?s=48&v=4" height="14"/> [Facebook Ads Archive](https://github.com/trypeggy/facebook-ads-library-mcp) - see what ads your competitors are running on Meta's platforms
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
@@ -296,6 +297,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
+- <img src="https://avatars.githubusercontent.com/u/215026595?s=48&v=4" height="14"/> [Instagram DMs](https://github.com/trypeggy/instagram_dm_mcp) - Send Instagram DMs via your LLM
 
 <br />
 
