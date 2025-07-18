@@ -172,7 +172,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
-- <img src="https://cdn.simpleicons.org/slack/E01E5A" height="14"/> [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Slack workspace integration for channel management and messaging
+- <img src="https://cdn.simpleicons.org/slack/E01E5A" height="14"/> [Slack](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with Stdio and SSE transports, Proxy support and no permission requirements on Slack Workspace.
 - <img src="https://www.line.me/favicon-32x32.png" height="14" /> [LINE Official Account](https://github.com/line/line-bot-mcp-server)<sup><sup>⭐</sup></sup> - Integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 - <img src="https://cdn.simpleicons.org/linear/5E6AD2" height="14"/> [Linear](https://github.com/jerhadf/linear-mcp-server) - Linear MCP Server. Provides integration with Linear's issue tracking system through MCP.
 - <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="14"/> [Atlassian](https://github.com/sooperset/mcp-atlassian) - Comprehensive integration with Atlassian suite including Confluence for documentation management and Jira for issue tracking.
