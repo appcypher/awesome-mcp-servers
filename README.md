@@ -374,6 +374,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.jsdelivr.net/gh/jsdelivr/globalping-media@refs/heads/master/icons/android-chrome-192x192.png" height="14" /> [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server)<sup><sup>⭐</sup></sup> - Access a network of thousands of probes to run network commands like ping, traceroute, mtr, http and DNS resolve.
 - <img src="https://gitkraken.com/favicon.ico" height="14" /> [GitKraken](https://github.com/gitkraken/gk-cli)<sup><sup>⭐</sup></sup> - A CLI for interacting with GitKraken APIs. Includes an MCP server via gk mcp that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more. Works with local tools and remote services.
 -  <img src="[https://intayer.org/fav](https://intlayer.org/favicon-32x32.png)" height="14" /> [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, docs.
+- <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 
 <br />
 
