@@ -7,21 +7,20 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 ## ⚠️ Security Warning
 
 > [!WARNING]
-> **Important Security Considerations for MCP Servers:**
-> 
-> When running MCP servers without proper sandboxing, they can execute arbitrary code on your system with the same permissions as the host process. This creates significant security risks:
-> 
-> - **System Access**: MCP servers may have full access to your file system, network, and other system resources
-> - **Code Execution**: Servers can potentially execute any command or code on your machine
-> - **Prompt Injection**: AI agents using MCP servers are vulnerable to prompt injection attacks, where malicious inputs could manipulate the AI to perform unintended actions through the connected servers
-> - **Data Exposure**: Sensitive data accessible to MCP servers could be exposed or exfiltrated
-> 
-> **Recommended Security Practices:**
-> - Run MCP servers in isolated environments or VMs when possible
-> - Use servers from trusted sources and review their code before installation
-> - Limit server permissions to only what is necessary for their intended function
-> - Be cautious when granting servers access to sensitive data or system resources
-> - Monitor server activity and logs for suspicious behavior
+>  When running MCP servers without proper sandboxing, they can execute arbitrary code on your system with the same permissions as the host process. This creates significant security risks.
+>
+> **Security Risks:**
+> - **System Access**: Full access to files, network, and system resources
+> - **Code Execution**: Can run any command on your machine
+> - **Prompt Injection**: Malicious prompts could trigger unintended server actions
+> - **Data Exposure**: Sensitive data may be accessed or leaked
+>
+> **Best Practices:**
+> - Use official implementations (marked with ⭐) when available
+> - Run servers in VMs or isolated environments
+> - Review code before installation
+> - Limit permissions to minimum required
+> - Monitor server activity
 
 <br />
 
