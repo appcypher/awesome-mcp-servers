@@ -76,6 +76,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🧑‍🎨 - [Art & Literature](#art-literature)
 - 🛒 - [E-Commerce](#e-commerce)
 - 📦 - [Data Platforms](#data-platforms)
+- 🤖 - [Robotics & Physical AI](#robotics)
 
 <sup><details>
 
@@ -473,6 +474,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
 
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
+
+<br />
+
+## 🤖 <a name="robotics"></a>Robotics & Physical AI
+
+> Robotics, drones and physical AI.
+
+- <img height="14" src="https://avatars.githubusercontent.com/u/224125194?s=200&v=4" alt="Extelligence Logo"> [Bagel](https://github.com/Extelligence-ai/bagel) - ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
 
 <br />
 
