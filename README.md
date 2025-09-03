@@ -184,10 +184,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
-- <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
+- <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> [Metoro](https://github.com/metoro-io/metoro-mcp-server) - Query and interact with kubernetes environments monitored by Metoro
 - <img src="https://raygun.com/favicon.ico" height="14"/> [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
-- <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
-- <img src="https://avatars.githubusercontent.com/u/174736222?s=200&v=4" height="14"/> **[VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics)** - Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.
+- <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
+- <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="14"/> [sslmon](https://github.com/firesh/sslmon-mcp) - Domain/HTTPS/SSL domain registration information and SSL certificate monitoring capabilities. Query domain registration and expiration information, and SSL certificate information and validity status for any domain.
+- <img src="https://aiops.drdroid.io/favicon.ico" height="14"/> [Signoz](https://github.com/DrDroidLab/signoz-mcp-server) - Comprehensive integration with [Signoz APIs](https://signoz.io/docs/userguide/apis/) and [documentation](https://signoz.io/docs/) for monitoring, observability, and debugging tasks related to your Signoz instances.
+- <img src="https://avatars.githubusercontent.com/u/174736222?s=200&v=4" height="14"/> [VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) - Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.
 
 <br />
 
@@ -253,6 +255,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp)<sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server)<sup><sup>2</sup></sup> - Alternative implementation for Notion API integration
 - <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Notes](https://github.com/sirmews/apple-notes-mcp) - Read from local Apple Notes database (macOS only)
+- <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
 
@@ -381,6 +384,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 -  <img src="[https://intayer.org/fav](https://intlayer.org/favicon-32x32.png)" height="14" /> [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, docs.
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 - ☕ [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
+- <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
 <br />
 
@@ -390,6 +394,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://vega.github.io/favicon.ico" height="14"/> [VegaLite](https://github.com/isaacwasserman/mcp-vegalite-server) - Generate visualizations from fetched data using the VegaLite format and renderer.
 - <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" height="14"/> [Chart](https://github.com/antvis/mcp-server-chart) - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
+- <img src="https://echarts.apache.org/zh/images/favicon.png" height="14"/> [ECharts](https://github.com/hustcc/mcp-echarts) - Generate visual charts using [Apache ECharts](https://echarts.apache.org/) with AI MCP dynamically.
 - <img src="https://mermaid.js.org/favicon.svg" height="14"/> [Mermaid](https://github.com/hustcc/mcp-mermaid) - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [unified-diff-mcp](https://github.com/gorosun/unified-diff-mcp) - Generate visual diff comparisons from text changes with HTML/PNG export. Perfect for code reviews and document analysis with side-by-side visualization.
 
@@ -454,6 +459,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > E-Commerce platforms.
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
+- <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
 <br />
 
