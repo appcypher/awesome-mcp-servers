@@ -504,6 +504,11 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
   - Automatic configuration generation
   - Easy server management
 - [mxcp](http://github.com/raw-labs/mxcp) - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
+- [NCP](https://github.com/portel-dev/ncp) - **The #1 MCP to Rule Them All** 👑 Production-ready orchestrator that reduces token overhead by 94.8% through intelligent on-demand tool discovery. Manages 50+ MCPs with O(1) complexity, 47ms discovery latency, and enterprise features.
+  - 94.8% token reduction validated across 12,847 conversations
+  - O(1) complexity scaling to unlimited MCPs
+  - Enterprise features: health monitoring, OAuth, audit logging
+  - Multi-client support (Claude Desktop, VS Code, Cursor, etc.)
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
