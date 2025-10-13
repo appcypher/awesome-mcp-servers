@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [juspay/neurolink](https://github.com/juspay/neurolink) - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 AI providers (OpenAI, Anthropic, Google, AWS Bedrock, Azure, Vertex AI, Mistral, HuggingFace, Ollama, SageMaker, LiteLLM) and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization. Battle-tested at 15M+ requests/month at Juspay with enterprise compliance (SOC2, ISO 27001, GDPR, HIPAA).
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
