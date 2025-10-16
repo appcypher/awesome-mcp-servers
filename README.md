@@ -412,6 +412,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
+- <img src="https://talao.co/image/server/talao.png" height="14"/> [Identity Wallet Connectors](https://wallet-connectors.com) - MCP server that bridges AI Agents with verifiable data wallets through OIDC4VP (EUDIW / EBSI).   
+
 <br />
 
 ## 🔗 <a name="aggregators"></a>Aggregators
