@@ -264,6 +264,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- <img src="https://cdn.simpleicons.org/brain/6366F1" height="14"/> [Mnemex](https://github.com/simplemindedbot/mnemex) - Temporal memory system with human-like decay and reinforcement. Two-layer architecture (JSONL short-term + Markdown/Obsidian long-term) with natural spaced repetition through conversation. Privacy-first local storage.
 
 <br />
 
