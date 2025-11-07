@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://docs.civic.com/favicon.ico" alt="Civic Nexus Logo" /> [Civic Nexus](https://docs.civic.com) - Zero-setup MCP gateway securely connecting AI to your tools with authentication and workflows.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
