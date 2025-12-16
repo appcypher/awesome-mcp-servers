@@ -250,6 +250,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
 <br />
+- <img src="https://avatars.githubusercontent.com/u/11193677?s=64&v=4" height="14"/> [LeadFuze](https://github.com/leadfuze/mcp-server) - Contact + company enrichment from email/LinkedIn URL with email validation. Hosted MCP: https://mcp.leadfuze.com/mcp (API key required).
+
 
 ## 📝 <a name="note-taking"></a>Note Taking
 
