@@ -499,6 +499,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [domain-mcp](https://github.com/joachimBrindeau/domain-mcp) - Domain MCP server for AI-powered Dynadot management - Natural language domain operations through Model Context Protocol
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation
