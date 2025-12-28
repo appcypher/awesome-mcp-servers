@@ -77,6 +77,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🛒 - [E-Commerce](#e-commerce)
 - 📦 - [Data Platforms](#data-platforms)
 - 🤖 - [Robotics & Physical AI](#robotics)
+- 🚇 - [Travel & Transportation](#travel-transportation)
 
 <sup><details>
 
@@ -236,7 +237,6 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://subwayinfo.nyc/favicon.ico" height="14"/> [MTA Subway Info](https://subwayinfo.nyc) - Real-time NYC subway arrivals, service status, alerts, station search, and trip planning via MCP
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
-- <img src="https://cdn.simpleicons.org/subway/00ADD8" height="14"/> [MTA Subway Info](https://subwayinfo.nyc) - Real-time NYC subway arrivals, service status, alerts, station search, and trip planning via MCP
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
 
 
