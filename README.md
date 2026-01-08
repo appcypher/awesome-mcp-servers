@@ -276,6 +276,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/weibaohui/k8m)<sup><sup>2</sup></sup> - Kubernetes  multi-cluster  management and operations, featuring a management ui, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [MKP](https://github.com/StacklokLabs/mkp)<sup><sup>3</sup></sup> - Model Kontext Protocol Server for Kubernetes with native Go implementation, direct API integration, and comprehensive resource management
 - <img src="https://tinybird.co/favicon.ico" height="14"/> [Tinybird](https://github.com/tinybirdco/mcp-tinybird)<sup><sup>⭐</sup></sup> - Interact with a Tinybird Workspace from any MCP client.
+- <img src="https://cdn.simpleicons.org/oracle/F80000" height="14"/> [Oracle Cloud](https://github.com/PurpleSquirrelMedia/oracle-mcp-server) - Oracle Cloud Infrastructure (OCI) management through MCP, supporting compute, networking, storage, and database operations.
+- <img src="https://cdn.simpleicons.org/ibm/052FAD" height="14"/> [IBM Cloud](https://github.com/PurpleSquirrelMedia/ibmcloud-mcp-server) - IBM Cloud infrastructure management through MCP, supporting VPC, compute, storage, and Kubernetes operations.
+- <img src="https://cdn.simpleicons.org/ibm/052FAD" height="14"/> [IBM watsonx](https://github.com/PurpleSquirrelMedia/watsonx-mcp-server) - IBM watsonx.ai integration for MCP, providing access to foundation models, prompt engineering, and AI workflows.
+- <img src="https://cdn.simpleicons.org/ibm/052FAD" height="14"/> [IBM Z Mainframe](https://github.com/PurpleSquirrelMedia/ibmz-mcp-server) - IBM Z mainframe operations, enabling AI assistants to interact with z/OS systems and manage mainframe workloads.
+- <img src="https://cdn.simpleicons.org/ibm/052FAD" height="14"/> [IBM Guardrails](https://github.com/PurpleSquirrelMedia/guardrails-mcp-server) - IBM watsonx Guardrails AI for content moderation and safety checks through AI assistants.
+- <img src="https://cdn.simpleicons.org/bytedance/3C8CFF" height="14"/> [Volcengine](https://github.com/PurpleSquirrelMedia/volcengine-mcp) - ByteDance Volcengine cloud platform integration for AI assistants to manage cloud resources.
 
 <br />
 
