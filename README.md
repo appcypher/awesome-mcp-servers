@@ -63,6 +63,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🤖 - [System Automation](#system-automation)
 - 📱 - [Social Media](#social-media)
 - 🎮 - [Gaming](#gaming)
+- 🏃 - [Fitness & Sports](#fitness-sports)
 - 💹 - [Finance](#finance)
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
@@ -319,6 +320,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
+
+<br />
+
+## 🏃 <a name="fitness-sports"></a>Fitness & Sports
+
+> Training data, workout tracking, and sports analytics for athletes.
+
+- <img src="https://api.iconify.design/mdi:run-fast.svg?color=%23F57C00" height="14"/> [TrainingPeaks](https://github.com/JamsusMaximus/trainingpeaks-mcp) - Access training data, fitness metrics (CTL/ATL/TSB), workout history, and power/pace personal records for endurance athletes
 
 <br />
 
