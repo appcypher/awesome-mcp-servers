@@ -264,6 +264,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- <img src="https://cdn.simpleicons.org/mediawiki/006699" height="14"/> [MediaWiki](https://github.com/olgasafonova/mediawiki-mcp-server) - Connect AI to any MediaWiki wiki. 36 tools for searching, reading, editing pages, and analyzing wiki content.
 
 <br />
 
@@ -284,6 +285,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with workflow automation platforms allows AI models to execute workflows and retrieve data back to their systems.
 
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
+- <img src="https://www.productplan.com/favicon.ico" height="14"/> [ProductPlan](https://github.com/olgasafonova/productplan-mcp-server) - Talk to your ProductPlan roadmaps. Query bars, OKRs, ideas, launches, and milestones with natural language.
 - <img src="https://www.taskade.com/favicon.ico" height="14"/> [Taskade MCP](https://github.com/taskade/mcp)<sup><sup>⭐</sup></sup> - Official Taskade MCP server + OpenAPI → MCP codegen to build AI agent tools from any API and connect Taskade to Claude, Cursor, and more.
 
 <br />
@@ -402,6 +404,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" height="14"/> [Chart](https://github.com/antvis/mcp-server-chart) - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - <img src="https://echarts.apache.org/zh/images/favicon.png" height="14"/> [ECharts](https://github.com/hustcc/mcp-echarts) - Generate visual charts using [Apache ECharts](https://echarts.apache.org/) with AI MCP dynamically.
 - <img src="https://mermaid.js.org/favicon.svg" height="14"/> [Mermaid](https://github.com/hustcc/mcp-mermaid) - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
+- <img src="https://miro.com/favicon.ico" height="14"/> [Miro](https://github.com/olgasafonova/miro-mcp-server) - Control Miro whiteboards with AI. 77 tools for boards, sticky notes, shapes, connectors, frames, mindmaps, and Mermaid diagram generation.
 - <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [unified-diff-mcp](https://github.com/gorosun/unified-diff-mcp) - Generate visual diff comparisons from text changes with HTML/PNG export. Perfect for code reviews and document analysis with side-by-side visualization.
 
 <br />
@@ -410,6 +413,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
+- <img src="https://cdn.simpleicons.org/go/00ADD8" height="14"/> [GLEIF](https://github.com/olgasafonova/gleif-mcp-server) - Access the GLEIF LEI database for company verification, KYC compliance, and corporate ownership research.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
