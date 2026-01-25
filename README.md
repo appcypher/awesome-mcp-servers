@@ -142,6 +142,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.box.com/themes/custom/box/favicons/favicon.ico" height="14"/> [Box](https://developer.box.com/guides/box-mcp/)<sup><sup>⭐</sup></sup> - Box MCP Server allows third party AI agents from platforms like Copilot Studio, Cursor, Claude for Desktop to access Box content seamlessly. It extends the agent's capabilities by allowing it to perform actions related to content stored in Box.
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - A serverless video database to easily store, index, search, and stream videos. VideoDB uses AI to automatically tag scenes, generate accurate transcriptions, and quickly retrieve video moments with simple queries.
 - <img src="https://www.microsoft.com/favicon.ico" height="14"/> [Microsoft 365](https://github.com/softeria/ms-365-mcp-server) - MCP server that connects to the whole Microsoft 365 suite (Microsoft Office, Outlook, etc.) using Graph API (including mail, files, Excel, calendar)
+- <img src="https://vnsh.dev/logo.svg" height="14"/> [vnsh](https://github.com/raullenchai/vnsh/tree/main/mcp) - Ephemeral encrypted file sharing for AI. Client-side AES-256 encryption, 24h auto-vaporization. Read vnsh URLs and share large outputs securely.
 
 <br />
 
