@@ -188,6 +188,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- <img src="https://lcontext.com/favicon.ico" height="14"/> [Lcontext](https://github.com/Lcontext/Lcontext) - User behavior analytics for AI coding agents. Provides page metrics, session sentiment analysis, visitor profiles, and AI-generated conversion insights via MCP.
 - <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> [Metoro](https://github.com/metoro-io/metoro-mcp-server) - Query and interact with kubernetes environments monitored by Metoro
 - <img src="https://raygun.com/favicon.ico" height="14"/> [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
 - <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
