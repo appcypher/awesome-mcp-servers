@@ -372,6 +372,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
+- [Claude Code Buddy](https://github.com/PCIRCLE-AI/claude-code-buddy) - Add persistent project memory and smart task routing to Claude Code. SQLite-based knowledge graph with 17 MCP tools. Multi-project support via scoped memories. AES-256-GCM encrypted secret management. 100% local processing, zero external API calls.
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
 - <img src="https://raw.githubusercontent.com/kadykov/mcp-openapi-schema-explorer/main/assets/logo-400.png" height="14"/> [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
