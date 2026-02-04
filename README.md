@@ -403,6 +403,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://echarts.apache.org/zh/images/favicon.png" height="14"/> [ECharts](https://github.com/hustcc/mcp-echarts) - Generate visual charts using [Apache ECharts](https://echarts.apache.org/) with AI MCP dynamically.
 - <img src="https://mermaid.js.org/favicon.svg" height="14"/> [Mermaid](https://github.com/hustcc/mcp-mermaid) - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [unified-diff-mcp](https://github.com/gorosun/unified-diff-mcp) - Generate visual diff comparisons from text changes with HTML/PNG export. Perfect for code reviews and document analysis with side-by-side visualization.
+- <img src="https://cdn.simpleicons.org/latex" height="14"/> [math-svg-mcp](https://github.com/wspringer/math-svg-mcp) - Convert LaTeX math expressions to crisp, scalable SVG images for documents, presentations, and design tools.
 
 <br />
 
