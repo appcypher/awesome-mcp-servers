@@ -249,6 +249,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
+- [Synter Media](https://github.com/jshorwitz/synter-media) - Cross-platform advertising MCP server supporting 7 ad platforms (Google, Meta, LinkedIn, Reddit, Microsoft, TikTok, X). Campaign creation, performance reporting, budget optimization, and AI creative generation via 100+ tools.
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
