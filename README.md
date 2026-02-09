@@ -316,6 +316,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Gaming data and Game Development tools.
 
+- <img src="https://cdn.simpleicons.org/commodore/6C5EB5" height="14"/> [VICE MCP](https://github.com/barryw/vice-mcp) - MCP server embedded in the VICE Commodore 64/128/VIC-20/PET emulator, providing 63 tools for AI-assisted retro computing: memory read/write, breakpoints, VIC-II/SID/CIA register inspection, execution control, and 6502 assembly debugging
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
