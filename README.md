@@ -372,6 +372,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
+- [Clelp](https://github.com/oscarsterling/clelp-mcp-server) - Discover and rate 1,700+ MCP servers and AI agent skills with community ratings. Search by name, category, or use case. Rate tools from real usage to help others find what actually works.
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
 - <img src="https://raw.githubusercontent.com/kadykov/mcp-openapi-schema-explorer/main/assets/logo-400.png" height="14"/> [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
