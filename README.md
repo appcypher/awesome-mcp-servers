@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
+- <img src="https://researchtwin.net/assets/app-icon-1024.png" height="14"/> [ResearchTwin](https://github.com/martinfrasch/researchtwin/tree/master/mcp-server) - Federated research discovery with S-Index metrics across Semantic Scholar, Google Scholar, GitHub, and Figshare
 <br />
 
 ## 🤝 <a name="ai-services"></a>AI Services
