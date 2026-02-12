@@ -371,6 +371,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
+- [agnix](https://github.com/avifenesh/agnix) - MCP server that lints AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, Cursor rules, Copilot instructions, and more with 156 rules and auto-fix.
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
