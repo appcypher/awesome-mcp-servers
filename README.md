@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [Chitin](https://www.npmjs.com/package/chitin-mcp-server) - Birth certificates for AI agents — verify on-chain identity (ERC-8004 passport + soulbound token), resolve DIDs, check A2A readiness, and issue certificates on Base L2. `npx -y chitin-mcp-server`
 
 <br />
 
