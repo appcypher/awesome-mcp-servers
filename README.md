@@ -418,6 +418,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for accessing many apps and tools through a single MCP server..
 
+- <img height="12" width="12" src="https://raw.githubusercontent.com/Apoth3osis-ai/agentpmt-mcp-public/main/logo-400x400.png" alt="AgentPMT Logo" /> [AgentPMT](https://github.com/Apoth3osis-ai/agentpmt-mcp-public) - AI agent marketplace for creating automated employees and assistants. Dynamic MCP server connecting to the entire ecosystem with budget-controlled tool discovery, purchasing, and orchestration.
+
 - <img height="12" width="12" src="https://github.com/mcpjungle/MCPJungle/blob/main/assets/logo.png" alt="MCPJungle Logo" /> [MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Registry and Proxy for enterprise AI Agents.
 
 - <img height="12" width="12" src="https://platform.composio.dev/favicon.ico" alt="Composio Logo"> **[Rube](https://rube.composio.dev)** - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion. Simply install it in your AI client, authenticate once with your apps, and start asking your AI to perform real actions like "Send an email" or "Create a task."
