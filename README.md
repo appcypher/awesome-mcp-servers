@@ -510,6 +510,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+### Directories & Discovery
+
+- [MCPList](https://mcplist.site) - Community-curated directory of 260+ MCP servers with trust scores, security scanning, and a public REST API.
+
+<br />
+
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
 ---
