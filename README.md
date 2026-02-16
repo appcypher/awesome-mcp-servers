@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [LIFE](https://github.com/TeamSafeAI/LIFE) - Persistent identity architecture for AI agents. 16 MCP servers covering drives, emotional relationships, semantic memory with decay, working threads, learned patterns, identity discovery, creative collision, journal, forecast, vision, and voice. Zero dependencies beyond Python 3.8.
 
 <br />
 
