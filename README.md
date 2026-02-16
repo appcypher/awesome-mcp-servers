@@ -309,6 +309,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
+- <img src="https://cdn.simpleicons.org/x/white" height="14"/> [xbird](https://github.com/checkra1neth/xbird-skill) - Twitter/X MCP server with 34 tools for AI agents — post, search, read, engage, upload media. No API keys needed, uses browser cookies. Pay per call from $0.001 via x402. [Website](https://xbird.dev) · [npm](https://www.npmjs.com/package/@checkra1n/xbird)
 
 <br />
 
