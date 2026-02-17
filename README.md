@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- <img src="https://zitadel.com/favicon.ico" height="14"/> [Zitadel](https://github.com/takleb3rry/zitadel-mcp) - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language.
 
 <br />
 
