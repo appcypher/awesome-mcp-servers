@@ -322,6 +322,15 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+
+## 🔊 <a name="audio-entertainment"></a>Audio & Entertainment
+
+> Audio playback, soundboards, and entertainment tools.
+
+- <img src="https://cdn.simpleicons.org/npm/CB3837" height="14"/> [myinstants-mcp](https://github.com/austenstone/myinstants-mcp) - A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories. `npx myinstants-mcp`
+
+<br />
+
 ## 💹 <a name="finance"></a>Finance
 
 > Financial data and cryptocurrency information services.
