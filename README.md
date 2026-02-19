@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://unified.to/favicon.ico" alt="Unified Logo" /> [Unified MCP Server](https://docs.unified.to/mcp/overview) - Remote MCP server providing 22,000+ authorized SaaS tools across 400+ integrations in 24 categories. Built for AI agents with scoped permissions and live read/write against third-party systems.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
