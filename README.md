@@ -354,6 +354,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Integration with AI and machine learning services.
 
+- <img src="https://agent-media.ai/icon.svg" height="14"/> [agent-media](https://github.com/yuvalsuede/agent-media) - MCP server and CLI for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
