@@ -482,6 +482,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
 
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
+- **[Vesh Agents](https://github.com/shailesht003/vesh-agents)** - Open-source agentic framework for revenue intelligence. 6 AI agents that extract, resolve, compute, and explain SaaS metrics from CSV, Stripe, and Postgres. BYOM via LiteLLM. Apache 2.0.
 
 <br />
 
