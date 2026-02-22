@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [AIP Identity](https://github.com/The-Nexus-Guard/aip/tree/main/mcp-server) - Cryptographic agent identity protocol. Ed25519 DIDs, trust scoring via vouch chains, E2E encrypted messaging, and artifact signing. 8 MCP tools for identity verification and trust management. ([PyPI](https://pypi.org/project/aip-mcp-server/))
 
 <br />
 
