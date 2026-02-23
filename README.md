@@ -519,3 +519,5 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+- [odei-ai/mcp-odei](https://github.com/odei-ai/mcp-odei) 📇 ☁️ - Constitutional world model for AI agents. Query Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails (APPROVED/REJECTED/ESCALATE), agent trust scores.
