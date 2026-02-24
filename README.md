@@ -355,6 +355,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with AI and machine learning services.
 
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
+- [Farnsworth SYNTEK](https://github.com/timowhite88/farnsworth-syntek) - Agent memory engine with 7-layer recursive architecture, on-chain encrypted persistence, and x402 micropayments. 10 MCP tools including holographic recall, knowledge graph, and context branching.
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
 - <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
