@@ -1,4 +1,4 @@
-# Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+h# Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
@@ -440,6 +440,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
+- [AstraCipher](https://github.com/san-techie21/astracipher) - Cryptographic identity MCP server for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). Provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures for secure agent-to-agent and agent-to-tool interactions.
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/120px-Microsoft_Entra_ID_color_icon.svg.png" height="14"/> [Microsoft Entra ID](https://github.com/hieuttmmo/entraid-mcp-server) - A MCP server for interacting with EntraID through Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, privileged users and more.
 - <img src="https://www.netwrix.com/favicon.ico" height="14"/> [Netwrix](https://github.com/netwrix/mcp-server-naa)<sup><sup>⭐</sup></sup> - A FastMCP-based server for [Netwrix Access Analyzer](https://www.netwrix.com/access-analyzer.html) data analysis, designed for enhanced data analysis capabilities.
