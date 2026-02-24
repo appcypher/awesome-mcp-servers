@@ -365,6 +365,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.creatify.ai/favicon.ico" height="14"/> [Creatify](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
 
+- [Farnsworth SYNTEK](https://github.com/timowhite88/farnsworth-syntek) - 7-layer recursive agent memory engine with x402 payments and on-chain persistence via DropClaw
+- [PlanetExpress](https://github.com/timowhite88/farnsworth-planetexpress) - AI agent marketplace for discovering and listing AI services with x402 payments
 <br />
 
 ## 💻 <a name="development-tools"></a>Development Tools
@@ -450,6 +452,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
+- [DropClaw](https://github.com/timowhite88/dropclaw) - Permanent encrypted on-chain storage for AI agents on Monad blockchain with x402 payments and client-side AES-256-GCM encryption
 <br />
 
 ## 🔌 <a name="iot"></a>IoT
