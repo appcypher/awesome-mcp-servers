@@ -272,6 +272,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
 - <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)<sup><sup>⭐</sup></sup> - Integration with Cloudflare services including Workers, KV, R2, and D1
+- <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [mycrab-mcp](https://github.com/isgudtek/mycrab-mcp) - Instant public HTTPS Cloudflare tunnels for AI agents. Free ephemeral URLs in under 60 seconds, or permanent custom subdomains via Solana micropayment. Install with `uvx mycrab-mcp`.
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/strowk/mcp-k8s-go)<sup><sup>1</sup></sup> - Kubernetes cluster operations through MCP
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/weibaohui/k8m)<sup><sup>2</sup></sup> - Kubernetes  multi-cluster  management and operations, featuring a management ui, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [MKP](https://github.com/StacklokLabs/mkp)<sup><sup>3</sup></sup> - Model Kontext Protocol Server for Kubernetes with native Go implementation, direct API integration, and comprehensive resource management
