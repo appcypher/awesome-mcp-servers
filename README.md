@@ -89,6 +89,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - <sup>n</sup> Subsequent implementations
 </details></sup>
 
+- [Intelligence Aeternum](https://github.com/codex-curator/intelligence-aeternum-mcp) - AI training dataset marketplace with 2M+ museum artworks across 7 institutions, 111-field Golden Codex enrichment, and x402 USDC micropayments on Base L2. 16 MCP tools.
 <br />
 
 ## Tools & Utilities
