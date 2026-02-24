@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://agentskill.sh/favicon.ico" alt="AgentSkill Logo" /> [AgentSkill](https://github.com/agentskill-sh/mcp-server) - Search, discover, and install AI agent skills from [agentskill.sh](https://agentskill.sh) — the largest skills directory with 44k+ skills for Claude Code, Cursor, Copilot, Windsurf, and more.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
