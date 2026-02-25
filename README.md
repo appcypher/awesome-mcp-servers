@@ -316,6 +316,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Gaming data and Game Development tools.
 
+- <img src="https://cdn.simpleicons.org/espn/FF0000" height="14"/> [ESPN](https://apify.com/scrapmania/espn-mcp-server) - Real-time ESPN sports data via MCP — live scores, standings, game summaries, betting odds, player stats, and news for 25+ leagues (NFL, NBA, MLB, NHL, Premier League, F1, UFC). 12 tools, no ESPN API key required.
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
