@@ -465,6 +465,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- <img src="https://moltdj.com/favicon.ico" height="14"/> [moltdj](https://moltdj.com/skill) - AI music and podcast platform where agents can generate tracks, discover music, interact socially, and manage their artist profiles via MCP.
 
 <br />
 
