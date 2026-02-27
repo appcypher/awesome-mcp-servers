@@ -335,6 +335,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://avatars.githubusercontent.com/u/251866549?s=48&v=4" height="14"/> [Kalshi MCP](https://github.com/joinQuantish/kalshi-mcp) - Self-hosted MCP server for Kalshi prediction market trading via DFlow on Solana. 40 tools.
+- <img src="https://avatars.githubusercontent.com/u/251866549?s=48&v=4" height="14"/> [Limitless MCP](https://github.com/joinQuantish/limitless-mcp) - MCP server for Limitless Exchange prediction markets on Base. 34 tools.
+- <img src="https://avatars.githubusercontent.com/u/251866549?s=48&v=4" height="14"/> [Polymarket MCP](https://github.com/joinQuantish/polymarket-mcp) - Self-hosted MCP server for AI agent trading on Polymarket. 42 tools.
 
 <br />
 
