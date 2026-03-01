@@ -347,6 +347,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://moldsim.pages.dev/favicon.ico" height="14"/> [MoldSim MCP](https://github.com/kobzevvv/moldsim-mcp) - Injection molding simulation knowledge — material properties (Cross-WLF, PVT, thermal, mechanical for 21 materials), process validation, DFM checklist, troubleshooting, and simulation spec generation
 
 <br />
 
