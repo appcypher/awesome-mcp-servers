@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- 🦞 [APIClaw](https://github.com/nordsym/apiclaw) - The API layer for AI agents. 22,000+ APIs indexed with semantic discovery and Direct Call execution. Giving agents access to real-world APIs. Discovery is free forever.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
