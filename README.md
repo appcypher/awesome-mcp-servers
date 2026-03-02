@@ -151,6 +151,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/postgresql/5865F2" height="14"/> [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - PostgreSQL database integration with schema inspection and query capabilities
 - <img src="https://cdn.simpleicons.org/sqlite/0F80CC" height="14"/> [SQLite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - SQLite database operations with built-in analysis features
+- <img src="https://cdn.simpleicons.org/sqlite/0F80CC" height="14"/> [MCP Database Connector Lite](https://github.com/tiranmoskovitch-dev/mcp-database-connector-lite) - Free SQLite MCP server with WAL mode, foreign keys, and zero-config setup. Part of the MCP Starter Arsenal.
 - <img src="https://cdn.simpleicons.org/duckdb/FDC000" height="14"/> [DuckDB](https://github.com/ktanaka101/mcp-server-duckdb) - DuckDB database integration with schema inspection and query capabilities
 - <img src="https://cdn.simpleicons.org/libreoffice/18A303" height="14"/> [Excel](https://github.com/haris-musa/excel-mcp-server) - Excel workbook manipulation including data reading/writing, worksheet management, formatting, charts, and pivot tables
 - <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="14"/> [BigQuery](https://github.com/LucasHild/mcp-server-bigquery)<sup><sup>1</sup></sup> - BigQuery database integration with schema inspection and query capabilities
