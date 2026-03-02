@@ -97,6 +97,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- [OpenClaw MCP Ecosystem](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers) - 9 remote MCP servers on Cloudflare Workers: JSON toolkit, regex engine, color palette, timestamp converter, prompt enhancer, AI market intelligence, fortune/horoscope, content publisher, and AI tool comparison. Free tier + Pro API keys ($9).
 ## 📂 <a name="file-systems"></a>File Systems
 
 > Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
