@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [AgentClear](https://agentclear.dev) - API marketplace for AI agents — discover and call 60+ services (PDF extraction, image generation, web scraping, etc.) with semantic search and sub-cent micropayments. Install via `npm install agentclear-mcp-server`.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
