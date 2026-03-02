@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://skillboss.co/favicon.ico" alt="SkillBoss Logo" /> [SkillBoss](https://github.com/heeyo-life/skillboss-mcp) - One API key for 100+ AI services. Unified access to Claude, GPT, Gemini, DeepSeek, image/video generation, data scraping, payments, email, and more. OpenAI-compatible.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
