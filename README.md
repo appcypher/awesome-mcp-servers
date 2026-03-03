@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+
+- [mcp-tool-search](https://github.com/KGT24k/mcp-tool-search) - MCP proxy that reduces context token usage by 85-96% via lazy tool loading. Replaces all backend tool schemas with 4 lightweight proxy tools using fuzzy search, connection pooling, and auto-retry.
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
