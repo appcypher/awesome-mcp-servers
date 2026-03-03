@@ -305,10 +305,11 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
 - <img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
-- <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube)<sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
-- <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
+- [MoltBook Publisher MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/moltbook-publisher-mcp) - Publishing to the MoltBook AI-agent social network with post creation and submolt management.
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
+- <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube)<sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
+- <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 
 <br />
 
@@ -355,14 +356,16 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with AI and machine learning services.
 
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
-- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
-- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
-- <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
-- <img src="https://cloud.llamaindex.ai/favicon.ico" height="14"/> [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - LlamaCloud MCP Server. A TypeScript-based MCP server connecting to a managed index on LlamaCloud.
-- <img src="https://huggingface.co/favicon.ico" height="14"/> [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more.
-- <img src="https://piapi.ai/piapi_favicon.webp" height="14"> [PiAPI](https://github.com/apinetwork/piapi-mcp-server) - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) -  Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 - <img src="https://www.creatify.ai/favicon.ico" height="14"/> [Creatify](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
+- <img src="https://huggingface.co/favicon.ico" height="14"/> [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more.
+- <img src="https://cloud.llamaindex.ai/favicon.ico" height="14"/> [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - LlamaCloud MCP Server. A TypeScript-based MCP server connecting to a managed index on LlamaCloud.
+- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
+- <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
+- [OpenClaw Intel MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/openclaw-intel-mcp) - OpenClaw ecosystem intelligence and analytics with platform statistics and skill search.
+- <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
+- <img src="https://piapi.ai/piapi_favicon.webp" height="14"> [PiAPI](https://github.com/apinetwork/piapi-mcp-server) - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
+- [Prompt Enhancer MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/prompt-enhancer-mcp) - AI prompt improvement and optimization for better LLM outputs.
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
 
 <br />
@@ -371,26 +374,30 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
+- [AgentForge Compare MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/agentforge-compare-mcp) - AI model comparison and benchmarking across LLM providers with structured analysis tools.
+- <img src="https://github.com/user-attachments/assets/9d517481-c4cd-4b6c-903a-878531c9d881" height="14" /> [Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol) - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
+- <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp)<sup><sup>⭐</sup></sup> - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
+- <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- <img src="https://edgeone.ai/favicon.ico" height="14" /> [EdgeOne Pages](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
+- <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
+- <img src="https://gitkraken.com/favicon.ico" height="14" /> [GitKraken](https://github.com/gitkraken/gk-cli)<sup><sup>⭐</sup></sup> - A CLI for interacting with GitKraken APIs. Includes an MCP server via gk mcp that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more. Works with local tools and remote services.
+- <img src="https://cdn.jsdelivr.net/gh/jsdelivr/globalping-media@refs/heads/master/icons/android-chrome-192x192.png" height="14" /> [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server)<sup><sup>⭐</sup></sup> - Access a network of thousands of probes to run network commands like ping, traceroute, mtr, http and DNS resolve.
+-  <img src="[https://intayer.org/fav](https://intlayer.org/favicon-32x32.png)" height="14" /> [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, docs.
+- [JSON Toolkit MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/json-toolkit-mcp) - JSON validation, formatting, diff, and schema generation tools for developers.
+- <img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" height="14" /> [marimo](https://github.com/marimo-team/codemirror-mcp)<sup><sup>⭐</sup></sup> - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
+- <img src="https://mastra.ai/favicon/icon.svg" height="14" /> [Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)<sup><sup>⭐</sup></sup> - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
+- <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
 - <img src="https://raw.githubusercontent.com/kadykov/mcp-openapi-schema-explorer/main/assets/logo-400.png" height="14"/> [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
 - <img src="https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png" height="14"/> [OpenRPC](https://github.com/shanejonas/openrpc-mpc-server) - A Model Context Protocol server that provides JSON-RPC functionality through OpenRPC.
 - <img src="https://cdn.simpleicons.org/postman" height="14" /> [Postman](https://github.com/delano/postman-mcp-server) - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/).
 - <img src="https://marketing.qasphere.com/images/logo/qasphere-square-512.png" height="14" /> [QA Sphere](https://github.com/Hypersequent/qasphere-mcp)<sup><sup>⭐</sup></sup> - Integration with QA Sphere test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
-- <img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" height="14" /> [marimo](https://github.com/marimo-team/codemirror-mcp)<sup><sup>⭐</sup></sup> - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
-- <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
-- <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp)<sup><sup>⭐</sup></sup> - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
-- <img src="https://vscode.dev/static/stable/favicon.ico" height="14" /> [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode ide and allows using semantic tools like `find_usages`
-- <img src="https://mastra.ai/favicon/icon.svg" height="14" /> [Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)<sup><sup>⭐</sup></sup> - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
-- <img src="https://github.com/user-attachments/assets/9d517481-c4cd-4b6c-903a-878531c9d881" height="14" /> [Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol) - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
-- <img src="https://edgeone.ai/favicon.ico" height="14" /> [EdgeOne Pages](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
-- <img src="https://cdn.jsdelivr.net/gh/jsdelivr/globalping-media@refs/heads/master/icons/android-chrome-192x192.png" height="14" /> [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server)<sup><sup>⭐</sup></sup> - Access a network of thousands of probes to run network commands like ping, traceroute, mtr, http and DNS resolve.
-- <img src="https://gitkraken.com/favicon.ico" height="14" /> [GitKraken](https://github.com/gitkraken/gk-cli)<sup><sup>⭐</sup></sup> - A CLI for interacting with GitKraken APIs. Includes an MCP server via gk mcp that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more. Works with local tools and remote services.
--  <img src="[https://intayer.org/fav](https://intlayer.org/favicon-32x32.png)" height="14" /> [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, docs.
+- [Regex Engine MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/regex-engine-mcp) - Regex testing, explanation, and generation from natural language descriptions.
+- [Timestamp Converter MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/timestamp-converter-mcp) - Timestamp conversion, timezone handling, and duration calculation across formats.
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
-- <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
-- <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- <img src="https://vscode.dev/static/stable/favicon.ico" height="14" /> [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode ide and allows using semantic tools like `find_usages`
 
 <br />
 
@@ -464,7 +471,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- [Color Palette MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/color-palette-mcp) - Color conversion, palette generation, and WCAG accessibility contrast checking.
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- [OpenClaw Fortune MCP](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/openclaw-fortune-mcp) - AI fortune telling with daily fortunes, horoscope, tarot, and I Ching consultations.
 
 <br />
 
