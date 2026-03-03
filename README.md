@@ -426,6 +426,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+
+- <img height="12" width="12" src="https://iteratools.com/assets/logo.svg" alt="IteraTools Logo" /> [IteraTools](https://github.com/fredpsantos33/mcp-iteratools) - Multi-tool MCP-compatible API for AI agents: image generation (Flux 1.1 Pro), web scraping, TTS, OCR, QR codes, PDF, search, weather, crypto and more. Pay-per-use with x402 protocol.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
