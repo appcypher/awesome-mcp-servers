@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://agentnativeregistry.com/favicon.ico" alt="Agent Native Registry Logo" /> [Agent Native Registry](https://agentnativeregistry.com) - Remote MCP server with 100+ developer tools scored on agent-friendliness (0-100). Helps agents discover and pick the right API for their task. Tools: `search_tools`, `get_score`, `compare_tools`.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
