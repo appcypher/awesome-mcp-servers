@@ -130,6 +130,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - Direct Git repository operations including reading, searching, and analyzing local repositories
 - <img src="https://cdn.simpleicons.org/phabricator/5865F2" height="14"/> [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Phabricator API integration for repository and project management
 - <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [Gitingest-MCP](https://github.com/puravparab/Gitingest-MCP) - Gitingest integration providing prompt friendly summmaries of Github repos
+- <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="14"/> [bbkt](https://github.com/zach-snell/bbkt) - Bitbucket Cloud CLI and MCP server in Go. Manages workspaces, repos, PRs, pipelines, issues, and source code with token introspection.
 
 
 <br />
