@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://api-catalog-three.vercel.app/favicon.ico" alt="Frostbyte Logo" /> [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - Developer API toolkit with 13 tools — IP geolocation, crypto prices, DNS/WHOIS, screenshots, web scraping, code execution, search, URL shortener, PDF generation, and more. One API key for 40+ services.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
