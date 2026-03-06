@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [Agent Passport System](https://github.com/aeoess/agent-passport-mcp) - Cryptographic identity, scoped delegation chains, policy enforcement, and audit infrastructure for AI agents. 38 tools across 8 protocol layers including Ed25519 passports, cascade revocation, Values Floor compliance, Merkle attribution, and agentic commerce with human approval gates.
 
 <br />
 
