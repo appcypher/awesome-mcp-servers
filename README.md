@@ -335,6 +335,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae4523050aa319269900de54b6c5e0049a.png" height="14"/> [crypto-signals-mcp](https://github.com/agenthustler/crypto-signals-mcp) - Real-time cryptocurrency volume anomaly scanner. Detects pump signals by analyzing volume-to-market-cap ratios across 50+ tokens using CoinGecko data. Also available on: [PyPI](https://pypi.org/project/crypto-signals-mcp/), [Apify Store](https://apify.com/agenthustler/crypto-signals-mcp).
 
 <br />
 
