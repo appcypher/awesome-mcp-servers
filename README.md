@@ -335,6 +335,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- [Base Gasless Deploy](https://github.com/lordbasilaiassistant-sudo/base-gasless-deploy-mcp) - Gasless ERC-20 token deployment on Base using CDP Paymaster. 5 tools.
+- [Base Price Oracle](https://github.com/lordbasilaiassistant-sudo/base-price-oracle-mcp) - On-chain price feeds from Base DEX pools. Spot prices, TWAP, liquidity depth. 7 tools.
+- [Base Flash Arb](https://github.com/lordbasilaiassistant-sudo/base-flash-arb-mcp) - Arbitrage detection across DEXes on Base. 7 tools.
+- [Base Multi-Wallet](https://github.com/lordbasilaiassistant-sudo/base-multi-wallet-mcp) - Coordinated multi-wallet trading on Base. 8 tools.
 
 <br />
 
@@ -441,6 +445,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
+- [Base Security Scanner](https://github.com/lordbasilaiassistant-sudo/base-security-scanner-mcp) - Smart contract security scanner for Base. Detect honeypots, rug pulls, hidden mints, bytecode analysis. 8 tools.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/120px-Microsoft_Entra_ID_color_icon.svg.png" height="14"/> [Microsoft Entra ID](https://github.com/hieuttmmo/entraid-mcp-server) - A MCP server for interacting with EntraID through Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, privileged users and more.
 - <img src="https://www.netwrix.com/favicon.ico" height="14"/> [Netwrix](https://github.com/netwrix/mcp-server-naa)<sup><sup>⭐</sup></sup> - A FastMCP-based server for [Netwrix Access Analyzer](https://www.netwrix.com/access-analyzer.html) data analysis, designed for enhanced data analysis capabilities.
 - <img src="https://osv.dev/favicon.ico" height="14"/> [OSV](https://github.com/StacklokLabs/osv-mcp) - Access the OSV (Open Source Vulnerabilities) database for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
