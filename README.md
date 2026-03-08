@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://archtools.dev/arch-icon.svg" alt="Arch Tools Logo" /> [Arch Tools](https://arch-tools-mcp.onrender.com) - 50 production-ready API tools for AI agents and developers: web scraping, AI generation, OCR, crypto data, email, image generation, transcription, and more. Supports autonomous USDC payments via x402 (no signup needed for agents).
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
