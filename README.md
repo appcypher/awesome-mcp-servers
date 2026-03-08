@@ -355,6 +355,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with AI and machine learning services.
 
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
+- 🧠 [Cuba-Memorys](https://github.com/lENADRO1910/cuba-memorys) - Persistent memory for AI agents with knowledge graph, Hebbian learning, 4-signal RRF fusion search, GraphRAG enrichment, FSRS spaced repetition, and anti-hallucination grounding. 12 tools, PostgreSQL, auto-provisions via Docker.
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
 - <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
