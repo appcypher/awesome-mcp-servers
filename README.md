@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [MolTrust](https://github.com/MoltyCel/moltrust-mcp-server) - Agent identity, trust, and security toolkit — DID creation, trust scoring, credential verification, ERC-8004 on-chain identity, plus MoltGuard tools for AI skill security audits, agentic commerce credentials (shopping, travel), and market integrity monitoring. 27 tools.
 
 <br />
 
