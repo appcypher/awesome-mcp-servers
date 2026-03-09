@@ -392,6 +392,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
+- [Agent Toolbelt](https://github.com/marras0914/agent-toolbelt) - 20 focused API tools for AI agents: schema generation, text extraction, token counting, regex/cron building, prompt optimization, web summarization, document comparison, contract extraction, and more. TypeScript SDK + LangChain wrappers.
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
