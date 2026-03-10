@@ -347,6 +347,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://www.encodeproject.org/static/img/favicon.ico" height="14"/> [ENCODE Toolkit](https://github.com/ammawla/encode-toolkit) - Search, download, and analyze ENCODE Project genomics data with 20 tools and 48 skills for experiments, pipelines, and cross-referencing 14 databases
 
 <br />
 
