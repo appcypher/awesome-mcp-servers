@@ -188,6 +188,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- <img src="https://avatars.githubusercontent.com/u/261648352?v=4" height="14"/> [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent with MCP server. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency.
 - <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> [Metoro](https://github.com/metoro-io/metoro-mcp-server) - Query and interact with kubernetes environments monitored by Metoro
 - <img src="https://raygun.com/favicon.ico" height="14"/> [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
 - <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
