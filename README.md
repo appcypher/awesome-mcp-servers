@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [AgentFolio](https://github.com/brainAI-bot/agentfolio-mcp-server) - Agent identity, trust scores, and marketplace access for AI agents via SATP (Solana Attestation Token Protocol). Search 120+ verified agents, verify trust before collaboration, and browse marketplace jobs.
 
 <br />
 
