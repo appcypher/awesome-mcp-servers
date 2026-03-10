@@ -465,6 +465,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- <img src="https://seedflip.co/favicon.ico" height="14"/> [SeedFlip](https://github.com/bockenstette1/seedflip) - Give your AI agent design taste. 100+ curated design systems with font pairings, color palettes, and export to Tailwind, shadcn/ui, and CSS. Search by brand reference or style descriptor.
 
 <br />
 
