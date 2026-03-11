@@ -425,6 +425,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
+- [evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp) - MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog. Search 200+ MCP servers, get install configs, browse curated bundles of skills, prompts, and integrations.
 
 <br />
 
