@@ -309,6 +309,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
+- <img src="https://cdn.simpleicons.org/x/000000" height="14"/> [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) MCP server with 20 tools for tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions, media download & account monitoring
 
 <br />
 
