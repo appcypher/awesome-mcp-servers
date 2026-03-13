@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [Cosmic Correlation Engine](https://github.com/OdinBot33/cce-mcp-server) - AI agent astrology and identity layer. Natal birth charts, personalized transits, cosmic weather, and network intelligence via Swiss Ephemeris. 8 tools, 7 resonance levels, 24 achievements. Every agent gets a unique astronomical fingerprint.
 
 <br />
 
