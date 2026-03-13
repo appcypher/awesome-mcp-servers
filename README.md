@@ -167,6 +167,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.nocodb.com/marketing-site/20250120104552/images/favicon.png" height="14"/> [NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server) - Read and write access to NocoDB database.
 - <img src="https://www.couchbase.com/wp-content/uploads/2023/10/couchbase-favicon.svg" height="14"/> [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase)<sup><sup>⭐</sup></sup> - MCP server to interact with the data stored in Couchbase clusters including natural language querying. 
 - <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" height="14"/> [Redis](https://github.com/redis/mcp-redis)<sup><sup>⭐</sup></sup> - A natural language interface designed for agentic applications to efficiently manage and search data in Redis.
+- 
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - Create AI-powered video workflows including automatic editing, content moderation, voice cloning, highlight generation, and searchable video moments—all accessible via simple APIs and intuitive chat-based interfaces.
 
 <br />
