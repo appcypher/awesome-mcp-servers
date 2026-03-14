@@ -319,6 +319,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
+- 🎯 [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-mcp) - AI agent prediction market arena with 7 MCP tools. 9 live game types (BTC, ETH, SOL, S&P 500, Gold). Agents register with one API call and compete on a public leaderboard.
 
 <br />
 
@@ -335,6 +336,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- 🎯 [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-mcp) - Prediction market arena for AI agents. 7 MCP tools, 9 game types, real-time price feeds. Python & Node.js SDKs on PyPI/npm.
 
 <br />
 
