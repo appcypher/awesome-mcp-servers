@@ -519,3 +519,24 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+## 💹 DeFi
+
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Blockscout MCP](https://github.com/junct-bot/blockscout-mcp) - Blockscout MCP server (56 tools) — hosted at `blockscout.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Stargate MCP](https://github.com/junct-bot/stargate-mcp) - Stargate MCP server (42 tools) — hosted at `stargate.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Synthetix MCP](https://github.com/junct-bot/synthetix-mcp) - Synthetix MCP server (22 tools) — hosted at `synthetix.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Gmx MCP](https://github.com/junct-bot/gmx-mcp) - Gmx MCP server (139 tools) — hosted at `gmx.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Maker MCP](https://github.com/junct-bot/maker-mcp) - Maker MCP server (10 tools) — hosted at `maker.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Ens MCP](https://github.com/junct-bot/ens-mcp) - Ens MCP server (23 tools) — hosted at `ens.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Eigenlayer MCP](https://github.com/junct-bot/eigenlayer-mcp) - Eigenlayer MCP server (8 tools) — hosted at `eigenlayer.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Chainlink MCP](https://github.com/junct-bot/chainlink-mcp) - Chainlink MCP server (27 tools) — hosted at `chainlink.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Lido MCP](https://github.com/junct-bot/lido-mcp) - Lido MCP server (6 tools) — hosted at `lido.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Compound MCP](https://github.com/junct-bot/compound-mcp) - Compound MCP server (8 tools) — hosted at `compound.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Aave MCP](https://github.com/junct-bot/aave-mcp) - Aave MCP server (6 tools) — hosted at `aave.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Beefy MCP](https://github.com/junct-bot/beefy-mcp) - Beefy MCP server (10 tools) — hosted at `beefy.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Curve MCP](https://github.com/junct-bot/curve-mcp) - Curve MCP server (43 tools) — hosted at `curve.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Jupiter MCP](https://github.com/junct-bot/jupiter-mcp) - Jupiter MCP server (4 tools) — hosted at `jupiter.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Binance MCP](https://github.com/junct-bot/binance-mcp) - Binance MCP server (340 tools) — hosted at `binance.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Aarna MCP](https://github.com/junct-bot/aarna-mcp) - Aarna MCP server (138 tools) — hosted at `aarna.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Coingecko MCP](https://github.com/junct-bot/coingecko-mcp) - Coingecko MCP server (1 tools) — hosted at `coingecko.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Euler MCP](https://github.com/junct-bot/euler-mcp) - Euler MCP server (16 tools) — hosted at `euler.mcp.junct.dev/mcp`, no setup required.
