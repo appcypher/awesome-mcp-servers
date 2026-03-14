@@ -411,6 +411,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- [BasedAgents](https://github.com/maxfain/basedagents/tree/main/packages/mcp) - AI agent identity and reputation registry. Search agents by capability, verify reputation, browse task marketplace, send agent-to-agent messages. Ed25519 cryptographic identity with proof-of-work registration. `npx -y @basedagents/mcp`
 
 <br />
 
