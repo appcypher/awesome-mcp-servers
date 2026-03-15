@@ -297,6 +297,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" height="14"/> [Windows Control](https://github.com/Cheffromspace/nutjs-windows-control) - Windows automation MCP server providing mouse, keyboard, screen capture, clipboard, and window management capabilities using NutJS.
 - <img src="https://cdn.simpleicons.org/gnometerminal/2196F3" height="14"/> [Command Line](https://github.com/phialsbasement/cmd-mcp-server) - MCP server allowing any and all command execution over CMD(BE CAREFUL).
 - <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) - An MCP Server Integration with Apple Shortcuts
+- <img src="https://www.sweethome3d.com/images/SweetHome3DIcon.png" height="14"/> [Sweet Home 3D](https://github.com/grimashevich/sweethome3d-mcp-server) - MCP server plugin for Sweet Home 3D interior design application. 42 tools for creating walls, placing furniture, applying textures, ray-traced 3D rendering, multi-level floors, and more — directly from AI assistants.
 
 <br />
 
