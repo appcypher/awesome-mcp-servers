@@ -297,6 +297,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" height="14"/> [Windows Control](https://github.com/Cheffromspace/nutjs-windows-control) - Windows automation MCP server providing mouse, keyboard, screen capture, clipboard, and window management capabilities using NutJS.
 - <img src="https://cdn.simpleicons.org/gnometerminal/2196F3" height="14"/> [Command Line](https://github.com/phialsbasement/cmd-mcp-server) - MCP server allowing any and all command execution over CMD(BE CAREFUL).
 - <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) - An MCP Server Integration with Apple Shortcuts
+- <img src="https://api.iconify.design/mdi:clipboard-text.svg?color=%234CAF50" height="14"/> [clipboard-mcp](https://github.com/cmeans/clipboard-mcp) - MCP server that reads and writes the system clipboard with structure preservation. Spreadsheet tables (Google Sheets, Excel) arrive as Markdown, JSON, or CSV instead of flat text. Also handles code, JSON, URLs, images, and plain text. Cross-platform (Linux, macOS, Windows).
 
 <br />
 
@@ -519,3 +520,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
