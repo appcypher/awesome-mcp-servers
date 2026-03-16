@@ -364,6 +364,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) -  Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 - <img src="https://www.creatify.ai/favicon.ico" height="14"/> [Creatify](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
+- <img src="https://raw.githubusercontent.com/whynowlab/jarvis-orb/main/orb/src-tauri/icons/32x32.png" height="14"/> [Jarvis Orb](https://github.com/whynowlab/jarvis-orb) - Persistent 4-tier AI memory with temporal scoring, contradiction detection, entity tracking, and real-time desktop visualization.
 
 <br />
 
