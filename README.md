@@ -354,6 +354,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Integration with AI and machine learning services.
 
+- <img height="12" width="12" src="https://agent-module.dev/favicon.ico"/> [Agent Module](https://github.com/AgentModule/mcp) - Agent-native knowledge infrastructure. Deterministic, vertical-specific knowledge bases for autonomous agent consumption via MCP. 22 ethics modules (EU AI Act mapped). Free 24hr trial.
 - <img src="https://agentset.ai/screenshots/logo.png" height="14"/> [Agentset AI](https://github.com/agentset-ai/mcp-server) -  RAG on your data using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
