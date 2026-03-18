@@ -343,7 +343,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Healthcare and medical services, telehealth platforms, and clinical workflows.
 
-- <img src="https://chia.health/favicon.ico" height="14"/> [Chia Health](https://github.com/chia-health/chia-mcp) - Patient workflow for licensed US telehealth. GLP-1 medications (semaglutide, tirzepatide), peptide therapies, longevity treatments. 30 tools, HIPAA-compliant, Stripe ACP payments.
+- <img src="https://chia.health/favicon.ico" height="14"/> [Chia Health](https://github.com/chia-health/chia-mcp) - The first MCP server that lets AI agents handle the entire prescription journey for their users. From finding the right medication to completing intake, signing consents, paying via Stripe ACP, and tracking delivery. Every intake is reviewed and approved by a US-licensed provider, medications delivered from FDA-regulated pharmacies. 30 tools, GLP-1 weight loss (semaglutide, tirzepatide) and longevity treatments. HIPAA-compliant, all 50 states.
 
 <br />
 
