@@ -75,6 +75,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔌 - [IoT](#iot)
 - 🧑‍🎨 - [Art & Literature](#art-literature)
 - 🛒 - [E-Commerce](#e-commerce)
+- 🚢 - [Dropshipping](#dropshipping)
 - 📦 - [Data Platforms](#data-platforms)
 - 🤖 - [Robotics & Physical AI](#robotics)
 
@@ -474,6 +475,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
+
+<br />
+
+## 🚢 <a name="dropshipping"></a>Dropshipping
+
+> Dropshipping automation and product import for e-commerce stores.
+
+- [DSers MCP Product](https://github.com/lofder/dsers-mcp-product) - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command. Published as `@lofder/dsers-mcp-product`.
 
 <br />
 
