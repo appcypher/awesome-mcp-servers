@@ -249,6 +249,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
+- [gsc-mcp](https://github.com/mikusnuz/gsc-mcp) - Google Search Console and Indexing API with 13 tools for search analytics, URL inspection, sitemaps, and index management.
+- [meta-ads-mcp](https://github.com/mikusnuz/meta-ads-mcp) - Meta Marketing API / Facebook Ads with 123 tools for campaign management, audience targeting, creative assets, and reporting.
+- [umami-mcp](https://github.com/mikusnuz/umami-mcp) - Umami Analytics with 66 tools for website traffic analysis, event tracking, and reporting.
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
@@ -310,6 +313,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
 
+- [meta-mcp](https://github.com/mikusnuz/meta-mcp) - Instagram, Threads, and Meta platform with 57 tools for content publishing, analytics, comments, and account management.
 <br />
 
 ## 🎮 <a name="gaming"></a>Gaming
@@ -392,6 +396,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
+- [app-publish-mcp](https://github.com/mikusnuz/app-publish-mcp) - App Store Connect and Google Play Console management with 91 tools for app metadata, releases, reviews, and certificates.
+- [cws-mcp](https://github.com/mikusnuz/cws-mcp) - Chrome Web Store management with 8 tools for extension publishing and updates.
+- [dynadot-mcp](https://github.com/mikusnuz/dynadot-mcp) - Dynadot domain registrar with 60 tools for domain search, registration, DNS, and account management.
+- [npm-mcp](https://github.com/mikusnuz/npm-mcp) - npm package management with 36 tools including publish, version, audit, deprecate, and dist-tag.
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
