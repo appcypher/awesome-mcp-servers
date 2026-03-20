@@ -74,6 +74,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🔒 - [Security](#security)
 - 🔌 - [IoT](#iot)
 - 🧑‍🎨 - [Art & Literature](#art-literature)
+- 🎵 - [Music](#music)
 - 🛒 - [E-Commerce](#e-commerce)
 - 📦 - [Data Platforms](#data-platforms)
 - 🤖 - [Robotics & Physical AI](#robotics)
@@ -465,6 +466,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+
+<br />
+
+## 🎵 <a name="music"></a>Music
+
+> Music streaming and audio services. Enables AI models to search, play, and manage music libraries.
+
+- <img src="https://tidal-cli.lucaperret.ch/favicon.ico" height="14"/> [Tidal](https://github.com/lucaperret/tidal-cli) - Control Tidal music streaming with 32 tools for searching the catalog, managing playlists, playing tracks, and discovering artists. Uses the official Tidal API with OAuth authentication.
 
 <br />
 
