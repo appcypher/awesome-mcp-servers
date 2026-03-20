@@ -465,6 +465,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- <img src="https://stockfilm.com/stockfilm-logo.png" height="14"/> [Stockfilm](https://github.com/ReplicantArmy/stockfilm-mcp) - Search and license 217,000+ authentic vintage 8mm home movie clips (1930s-1980s) restored in 4K. Text search, visual similarity, rough-cut timeline builder, rights verification, and instant licensing via x402 USDC payments. Real archival film — no AI-generated content.
 
 <br />
 
