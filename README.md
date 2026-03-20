@@ -326,6 +326,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://www.svgrepo.com/show/362085/shield-check.svg" height="14"/> [Aegis](https://github.com/StanleytheGoat/aegis) - DeFi safety layer for AI agents. Scans contracts against 165 exploit patterns, simulates transactions on forked chains, and blocks honeypots. On-chain enforcement on Base via AegisGateway and Uniswap v4 hook.
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
