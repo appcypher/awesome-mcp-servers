@@ -262,6 +262,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server)<sup><sup>2</sup></sup> - Alternative implementation for Notion API integration
 - <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Notes](https://github.com/sirmews/apple-notes-mcp) - Read from local Apple Notes database (macOS only)
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
+- <img src="https://cdn.simpleicons.org/microsoft/18A303" height="14"/> [Microsoft OneNote](https://github.com/anthonygore/mcp-onenote) - Model Context Protocol server for Microsoft OneNote integration. Search and retrieve notes, browse note hierarchies, and access content from your OneNote workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
 
@@ -328,13 +329,13 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
-- <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
+- <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://mcp.mercadopago.com/) - Mercado Pago's official MCP server, offering tools to interact with our API, simplifing tasks and product integration.
 - <img src="https://dexpaprika.com/favicon.ico" height="14"/> [DexPaprika](https://github.com/donbagger/dexpaprika-mcp-server)<sup><sup>⭐</sup></sup> - Comprehensive cryptocurrency and DEX data API across multiple blockchains, providing real-time token pricing, liquidity pools, and OHLCV data for market analysis
 - <img src="https://www.mercadopago.com/favicon.ico" height="14" alt="MercadoPago Logo" /> [Mercado Pago](https://mcp.mercadopago.com/) - Mercado Pago's official MCP server, offering tools to interact with our API, simplifing tasks and product integration.
 - <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" height="14"> [PayPal](https://github.com/paypal/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - The PayPal Agent Toolkit enables popular agent frameworks including Model Context Protocol (MCP) to integrate with PayPal APIs through function calling.
-- <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://solhunt.dev/favicon.ico" height="14"/> [SolHunt](https://github.com/shieldspprt/solhunt-recovery) - Solana wallet health analysis and SOL recovery. Check wallet efficiency, find recoverable SOL from zero-balance token accounts, and build trustless recovery transactions.
 
 <br />
 
@@ -380,10 +381,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://marketing.qasphere.com/images/logo/qasphere-square-512.png" height="14" /> [QA Sphere](https://github.com/Hypersequent/qasphere-mcp)<sup><sup>⭐</sup></sup> - Integration with QA Sphere test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
 - <img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" height="14" /> [marimo](https://github.com/marimo-team/codemirror-mcp)<sup><sup>⭐</sup></sup> - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
-- <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp)<sup><sup>⭐</sup></sup> - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
+- <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp-server) - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
 - <img src="https://vscode.dev/static/stable/favicon.ico" height="14" /> [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode ide and allows using semantic tools like `find_usages`
 - <img src="https://mastra.ai/favicon/icon.svg" height="14" /> [Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)<sup><sup>⭐</sup></sup> - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
-- <img src="https://github.com/user-attachments/assets/9d517481-c4cd-4b6c-903a-878531c9d881" height="14" /> [Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol) - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
+- <img src="https://github.com/user-attachments/assets/9d517481-c4cd-4202-80cd-25e0678d3400" height="14" /> [Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol) - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - <img src="https://edgeone.ai/favicon.ico" height="14" /> [EdgeOne Pages](https://github.com/TencentEdgeOne/edgeone-pages-mcp) - A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - <img src="https://cdn.jsdelivr.net/gh/jsdelivr/globalping-media@refs/heads/master/icons/android-chrome-192x192.png" height="14" /> [Globalping MCP](https://github.com/jsdelivr/globalping-mcp-server)<sup><sup>⭐</sup></sup> - Access a network of thousands of probes to run network commands like ping, traceroute, mtr, http and DNS resolve.
 - <img src="https://gitkraken.com/favicon.ico" height="14" /> [GitKraken](https://github.com/gitkraken/gk-cli)<sup><sup>⭐</sup></sup> - A CLI for interacting with GitKraken APIs. Includes an MCP server via gk mcp that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more. Works with local tools and remote services.
@@ -464,7 +465,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
-- <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- <img src="https://static.wikia.nocookie.net/logopedia/images/2/25/Apple_Books_%28iOS%29_2024_dark.svg/revision/latest?cb=20240616234654" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
 
