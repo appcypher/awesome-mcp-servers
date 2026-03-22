@@ -425,6 +425,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
+- - [Universal MCP Toolkit](https://github.com/Markgatcha/universal-mcp-toolkit) - An all-in-one MCP server aggregating 15+ tools across file system, web search, weather, database, system info, and more. Zero-config npx quickstart, Glama-listed, with 100+ monthly npm downloads.
 
 <br />
 
