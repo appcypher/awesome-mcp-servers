@@ -491,6 +491,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img height="14" src="https://avatars.githubusercontent.com/u/224125194?s=200&v=4" alt="Extelligence Logo"> [Bagel](https://github.com/Extelligence-ai/bagel) - ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
 
+## 🏃 <a name="sports"></a>Sports & Fitness
+
+> Sports data, fitness tracking, and athletic performance tools.
+
+- [XWeaponX7/rundida-mcp](https://github.com/XWeaponX7/rundida-mcp) 📇 ☁️ - 86 running calculators, 29 marathon events, pace/time/distance calculations, race time predictions (Riegel formula), and heart rate training zones (Karvonen method) for AI agents. No API key required.
+
 <br />
 
 # Tools & Utilities
