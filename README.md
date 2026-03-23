@@ -410,6 +410,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
+- [AgentStamp](https://github.com/vinaybhosle/agentstamp) - Trust intelligence platform for AI agents — identity certification, trust scoring (0-100), forensic audit trails, and x402 micropayments. 14 MCP tools.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
