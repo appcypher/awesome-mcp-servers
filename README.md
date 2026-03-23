@@ -508,7 +508,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 
-- [A2ASearch](https://a2asearch.ai) - Searchable directory of 4,800+ MCP servers, AI agents, CLI tools and agent skills. Includes an [MCP server](https://github.com/tadas-github/a2asearch-mcp) (`npx -y a2asearch-mcp`) to search directly from Claude or Cursor. Free REST API, no auth required.
+- [A2ASearch MCP](https://github.com/tadas-github/a2asearch-mcp) - MCP server to search 4,800+ MCP servers, AI agents, CLI tools and agent skills. Install: `npx -y a2asearch-mcp`. Free, no auth required. ([a2asearch.ai](https://a2asearch.ai))
 
 <br />
 
