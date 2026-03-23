@@ -93,6 +93,9 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 
 ## Tools & Utilities
 
+
+- **[bytepack](https://github.com/Sutr-dev999/bytepack)** <a href="https://pypi.org/project/bytepack/"><img src="https://img.shields.io/pypi/v/bytepack" height="14"/></a> - Fixed-size binary encoding for agent communication. Encode any structured data into exactly 2,556 bytes. 20x more compact than JSON. [MCP manifest](https://sutr.lol/.well-known/mcp/server.json) | [Smithery](https://smithery.ai/servers/bytepack/binary-encoding)
+
 See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to help manage, configure, and work with MCP servers.
 
 <br />
