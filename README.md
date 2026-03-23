@@ -508,6 +508,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 
+- [A2ASearch](https://a2asearch.ai) - Searchable directory of 4,800+ MCP servers, AI agents, CLI tools and agent skills. Find and discover tools by capability, search across READMEs, and query the free REST API. No auth required.
+
 <br />
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
