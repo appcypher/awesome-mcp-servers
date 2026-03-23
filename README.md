@@ -304,6 +304,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
+- <img src="https://bibigpt.co/favicon.ico" height="14"/> [BibiGPT](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio, and podcast summarization. Remote MCP server at https://bibigpt.co/api/mcp. Supports YouTube, Bilibili, TikTok, and more.
 - <img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube)<sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
