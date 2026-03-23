@@ -304,6 +304,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
+- <img src="https://agentreacher.com/favicon.ico" height="14"/> [AgentReacher](https://github.com/thijssmudde/AgentReacher)<sup><sup>⭐</sup></sup> - Connect AI agents to 9+ social media platforms. Create, schedule, and publish posts across X, LinkedIn, Instagram, Bluesky, TikTok, YouTube, and more from any MCP client.
 - <img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube)<sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
