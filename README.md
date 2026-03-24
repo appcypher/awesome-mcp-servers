@@ -297,6 +297,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" height="14"/> [Windows Control](https://github.com/Cheffromspace/nutjs-windows-control) - Windows automation MCP server providing mouse, keyboard, screen capture, clipboard, and window management capabilities using NutJS.
 - <img src="https://cdn.simpleicons.org/gnometerminal/2196F3" height="14"/> [Command Line](https://github.com/phialsbasement/cmd-mcp-server) - MCP server allowing any and all command execution over CMD(BE CAREFUL).
 - <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) - An MCP Server Integration with Apple Shortcuts
+- <img src="https://raw.githubusercontent.com/heznpc/AirMCP/main/icons/airmcp-icon-16.png" height="14"/> [AirMCP](https://github.com/heznpc/AirMCP) - MCP server for the entire Apple ecosystem — 262 tools across 25 modules including Notes, Reminders, Calendar, Mail, Messages, Music, Finder, Safari, Photos, Shortcuts, Apple Intelligence, and more.
 
 <br />
 
