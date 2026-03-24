@@ -473,6 +473,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > E-Commerce platforms.
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
+- <img src="https://magendoo.ro/favicon.ico" height="14" alt="MageMCP Logo" /> **[MageMCP](https://github.com/magendooro/magemcp)** - MCP server for Magento 2 / Adobe Commerce with 30+ tools for catalog, cart, checkout, orders, customers, inventory, CMS, and promotions. Dual namespace: customer (GraphQL) and admin (REST). Built-in safety with confirmation prompts and PII redaction.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
 <br />
