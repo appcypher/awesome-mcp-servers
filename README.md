@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://usefulai.fun/favicon.ico" alt="Useful AI Logo" /> [Useful AI](https://github.com/uAI-solana/useful-ai-mcp) - A fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on usage data. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
