@@ -224,6 +224,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+- <img src="https://pypi.org/static/images/logo-small.95de8436.svg" height="14" /> [Cross-Validated Search](https://github.com/wd041216-bit/cross-validated-search) [![PyPI](https://img.shields.io/pypi/v/cross-validated-search)](https://pypi.org/project/cross-validated-search/) - Source-backed web search, page reading, and evidence-aware claim checking for AI agents. Supports MCP, CLI, and self-hosted SearXNG + DuckDuckGo style free workflows. Install with `pip install cross-validated-search`.
 
 <br />
 
