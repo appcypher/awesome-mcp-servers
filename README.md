@@ -180,6 +180,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/linear/5E6AD2" height="14"/> [Linear](https://github.com/jerhadf/linear-mcp-server) - Linear MCP Server. Provides integration with Linear's issue tracking system through MCP.
 - <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="14"/> [Atlassian](https://github.com/sooperset/mcp-atlassian) - Comprehensive integration with Atlassian suite including Confluence for documentation management and Jira for issue tracking.
 - <img src="https://carbonvoice.app/favicon.ico" height="14"/> [Carbon Voice](https://github.com/PhononX/cv-mcp-server)<sup><sup>⭐</sup></sup> - MCP Server that connects AI Agents to [Carbon Voice](https://getcarbon.app). Create, manage, and interact with voice messages, conversations, direct messages, folders, voice memos, AI actions and more in [Carbon Voice](https://getcarbon.app).
+- <img src="https://join.cloud/favicon.ico" height="14"/> [Join.cloud](https://github.com/kushneryk/join.cloud) - Collaboration rooms for AI agents with real-time messaging, A2A protocol support, and git-based file sharing. Connect agents via MCP, A2A, HTTP, or TypeScript SDK.
 - <img src="https://m2tg1pnwn0.ufs.sh/f/GMqNN8nd9I8l9tUbmif1CnFX8Baqr7mHeicYu0AULDyNVWJE" height="14"/> [ntfy](https://github.com/gitmotion/ntfy-me-mcp) - An ntfy MCP server for sending/fetching ntfy notifications to your self-hosted ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
 
 <br />
