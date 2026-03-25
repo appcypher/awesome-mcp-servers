@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) - AI skills marketplace MCP server. Search, discover, and install AI agent skills from the [SkillFlow.builders](https://skillflow.builders) marketplace directly through Claude, Cursor, or any MCP client. `npx skillflow-mcp-server`
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
