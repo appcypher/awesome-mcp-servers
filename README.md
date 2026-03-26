@@ -424,6 +424,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
  
+- <img height="12" width="12" src="https://www.mcpbundles.com/favicon.ico" alt="MCPBundles Logo" /> [MCPBundles](https://mcpbundles.com) - Hosted platform for discovering, configuring, and running MCP tool bundles. Connect to 500+ production APIs (Stripe, HubSpot, Postgres, Gmail, etc.) through a single remote MCP server with OAuth, credential management, and a CLI (`pip install mcpbundles`).
+
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
 <br />
