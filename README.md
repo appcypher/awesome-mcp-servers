@@ -224,6 +224,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+- <img src="https://unchainedsky.com/favicon.ico" height="14"/> [Unchained](https://github.com/protostatis/unchained-infra) - Browser automation via raw Chrome DevTools Protocol that drives the user's own Chrome session with their existing cookies, extensions, and 2FA state—avoiding the brittle login replays that break most browser agents.
 
 <br />
 
