@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://rhumb.dev/favicon.ico" alt="Rhumb Logo" /> [Rhumb](https://github.com/supertrained/rhumb) - Discover, evaluate, and execute 695+ external APIs for AI agents. Features AN Score (20-dimension trust scoring), zero-signup discovery tools, and three credential modes. [![Glama](https://glama.ai/mcp/servers/supertrained/rhumb/badge)](https://glama.ai/mcp/servers/nnimnpwgem)
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
