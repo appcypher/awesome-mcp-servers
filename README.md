@@ -347,6 +347,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- [SciRouter](https://scirouter.ai) - Unified API gateway for scientific computing. 27 MCP tools covering protein folding (ESMFold), molecular docking (AutoDock Vina), ADME/Tox prediction, protein sequence design (ProteinMPNN), antibody structure prediction (ImmuneBuilder), CDR design (AntiFold), molecule generation (REINVENT4), variant effect analysis, MHC binding prediction, neoantigen discovery, mRNA vaccine design, and drug discovery pipelines. One API key, GPU models on demand.
 
 <br />
 
