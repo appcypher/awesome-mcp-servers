@@ -64,6 +64,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📱 - [Social Media](#social-media)
 - 🎮 - [Gaming](#gaming)
 - 💹 - [Finance](#finance)
+- 🏋️ - [Health & Fitness](#health-fitness)
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
 - 💻 - [Development Tools](#development-tools)
@@ -335,6 +336,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+
+<br />
+
+## 🏋️ <a name="health-fitness"></a>Health & Fitness
+
+> Health, fitness, and wellness platform integrations. Enables AI models to interact with training programs, workout tracking, and coaching services.
+
+- <img src="https://pelaris.io/favicon.png" height="14"/> [Pelaris](https://github.com/theDonk/pelaris-mcp-server) - AI fitness coaching with 21 tools for personalised training programs, workout logging, benchmark tracking, goal management, and coaching insights across 7 sports. [Documentation](https://pelaris.io/integrations)
 
 <br />
 
