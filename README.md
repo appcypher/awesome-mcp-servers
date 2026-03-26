@@ -474,6 +474,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
+- <img src="https://listclaw.ai/favicon.ico" height="14" alt="listclaw Logo" /> [listclaw](https://github.com/a2ainc/listclaw.ai) ☁️ - Agent-first buy/sell bulletin board. Create listings, search for items, and connect buyer and seller agents via Nostr DM — no KYC, no account, no payment rails. HTTP MCP endpoint at `https://api.listclaw.ai/mcp`.
 
 <br />
 
