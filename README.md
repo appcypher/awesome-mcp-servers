@@ -286,6 +286,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
 - <img src="https://www.taskade.com/favicon.ico" height="14"/> [Taskade MCP](https://github.com/taskade/mcp)<sup><sup>⭐</sup></sup> - Official Taskade MCP server + OpenAPI → MCP codegen to build AI agent tools from any API and connect Taskade to Claude, Cursor, and more.
 
+- <img src="https://cdn.simpleicons.org/calendar/4F46E5" height="14"/> [Coordinalo](https://github.com/coordinalo/coordinalo-mcp) - Connect AI agents to a scheduling platform — create bookings, query availability, manage clients and providers via MCP
 <br />
 
 ## 🤖 <a name="system-automation"></a>System Automation
