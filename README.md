@@ -465,6 +465,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- <img src="https://svg.new/favicon.ico" height="14"/> [svg.new](https://github.com/svgnew/mcp) - AI-powered image to SVG vectorization — convert raster images to clean vector graphics. Published as `@svgnew/mcp`.
 
 <br />
 
