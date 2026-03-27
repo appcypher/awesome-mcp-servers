@@ -64,6 +64,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 📱 - [Social Media](#social-media)
 - 🎮 - [Gaming](#gaming)
 - 💹 - [Finance](#finance)
+- 🏥 - [Healthcare](#healthcare)
 - 🧬 - [Research & Data](#research-data)
 - 🤝 - [AI Services](#ai-services)
 - 💻 - [Development Tools](#development-tools)
@@ -335,6 +336,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+
+<br />
+
+## 🏥 <a name="healthcare"></a>Healthcare
+
+> Healthcare and medical services, telehealth platforms, and clinical workflows.
+
+- <img src="https://chia.health/favicon.ico" height="14"/> [Chia Health](https://github.com/chia-health/chia-mcp) - The first MCP server that lets AI agents handle the entire prescription journey for their users. From finding the right medication to completing intake, signing consents, paying via Stripe ACP, and tracking delivery. Every intake is reviewed and approved by a US-licensed provider, medications delivered from FDA-regulated pharmacies. 30 tools, GLP-1 weight loss (semaglutide, tirzepatide) and longevity treatments. HIPAA-compliant, all 50 states.
 
 <br />
 
