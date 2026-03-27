@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://www.licium.ai/favicon.ico" alt="Licium Logo" /> [Licium](https://www.licium.ai/api/mcp) - Your agent delegates to specialist agents, searches MCP tools, and accesses real-time data APIs — through one connection. Hosted, no install needed.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
