@@ -418,6 +418,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for accessing many apps and tools through a single MCP server..
 
+- <img height="12" width="12" src="https://avatars.githubusercontent.com/u/237536613?v=4" alt="AIRIS MCP Gateway Logo" /> [AIRIS MCP Gateway](https://github.com/agiletec-inc/airis-mcp-gateway) - Docker-based MCP multiplexer exposing 60+ tools through 7 meta-tools. Reduces context tokens by 97%. One-command setup, auto-enables servers on demand.
+
 - <img height="12" width="12" src="https://github.com/mcpjungle/MCPJungle/blob/main/assets/logo.png" alt="MCPJungle Logo" /> [MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Registry and Proxy for enterprise AI Agents.
 
 - <img height="12" width="12" src="https://platform.composio.dev/favicon.ico" alt="Composio Logo"> **[Rube](https://rube.composio.dev)** - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion. Simply install it in your AI client, authenticate once with your apps, and start asking your AI to perform real actions like "Send an email" or "Create a task."
