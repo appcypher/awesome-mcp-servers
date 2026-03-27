@@ -392,6 +392,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
+- <img src="https://cdn.simpleicons.org/github" height="14"/> [GodProfile](https://github.com/Luc0-0/GodProfile) - MCP server that generates animated glassmorphic SVGs for GitHub profile READMEs. 16 tools: animated terminals, neural tech maps, live GitHub stat trophies, WakaTime charts, and Spotify cards. Pure Python stdlib, zero external dependencies.
+
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
