@@ -481,6 +481,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Platforms for orchestrating, transforming, and managing data pipelines. Enables AI agents to interact with complex ETL/ELT workflows, unify disparate data sources, and drive automated data operations across cloud and hybrid environments.
 
+- 🔶 **[Dagster MCP](https://github.com/fabdendev/dagster-mcp)** - Monitor and operate Dagster instances: inspect runs, diagnose failures, check asset health, launch jobs, and manage schedules/sensors across multiple environments.
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 
 <br />
