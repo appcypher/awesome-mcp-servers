@@ -347,6 +347,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://api.iconify.design/mdi:dna.svg?color=%234CAF50" height="14"/> [Bioinformatics](https://github.com/AiAgentKarl/bioinformatics-mcp-server) - Bioinformatics data access for AI agents — gene search, protein structures, clinical variants, PubMed literature, and DNA sequences via NCBI and UniProt. No API key required.
 
 <br />
 
