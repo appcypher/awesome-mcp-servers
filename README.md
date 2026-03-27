@@ -236,6 +236,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
+- <img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" height="14"/> [Geospatial](https://github.com/AiAgentKarl/geospatial-mcp-server) - Geospatial data for AI agents via OpenStreetMap — geocoding, reverse geocoding, POI search, routing, and area statistics. No API key required.
 
 
 <br />
