@@ -309,6 +309,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
 - <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" height="14"/> [TikTok](https://github.com/Seym0n/tiktok-mcp) - TikTok integration for getting post details and video's subtitles
+- [Instagram](https://github.com/mcpware/instagram-mcp) - Instagram Graph API integration with 23 tools for posts, comments, DMs, stories, hashtags, reels, carousels, and analytics.
 
 <br />
 
@@ -391,6 +392,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Dashboard + MCP server that scans Claude Code configs across scopes, detects poisoned MCP servers via multi-layer security scanner, shows per-item context budget, and lets you drag-and-drop items between scopes.
+- [Pagecast](https://github.com/mcpware/pagecast) - Record any browser page as GIF or video via MCP. AI reads your codebase to plan a demo script, records browser interactions with tooltip zoom overlays, and exports to GIF/MP4.
+- [UI Annotator](https://github.com/mcpware/ui-annotator-mcp) - Annotates any web page with hover labels showing component names and selectors. Solves the problem of AI not being able to see your UI — hover to identify elements, then reference them by name in prompts.
 
 <br />
 
