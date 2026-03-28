@@ -412,6 +412,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
+- **[Hashgraph Online (HOL)](https://hol.org/)** ⭐ - Universal agent registry on Hedera providing discovery, identity (UAIDs), and trustless P2P communication for AI agents. Bridges A2A, ERC-8004, x402, and MCP protocols. Open-source SDKs in TypeScript, Go, and Python.
+
 <br />
 
 ## 🔗 <a name="aggregators"></a>Aggregators
