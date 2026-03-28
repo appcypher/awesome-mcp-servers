@@ -337,6 +337,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
 <br />
+- 💰 [Demaciains API](https://github.com/DrGalio/demaciains-api) - 19 AI-powered business tools with x402 crypto pay-per-use on Base network. No subscriptions — pay per API call via USDC.
 
 ## 🧬 <a name="research-data"></a>Research & Data
 
@@ -365,6 +366,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.creatify.ai/favicon.ico" height="14"/> [Creatify](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
 
+- 💰 [Demaciains API](https://github.com/DrGalio/demaciains-api) - 19 premium AI tools with x402 crypto pay-per-use (Base network). Includes AI detection, SEO audit, email verification, lead scoring, market analysis, and more. $1.39-\$2.44 per call, no subscriptions.
 <br />
 
 ## 💻 <a name="development-tools"></a>Development Tools
