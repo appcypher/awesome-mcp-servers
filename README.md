@@ -202,6 +202,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - <img src="https://cdn.simpleicons.org/puppeteer/00D8A2" height="14"/> [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
+- 🔎 [KnyazevAI MCP Catalog](https://github.com/knyazev741/mcp-catalog) - Semantic search across 24,500+ MCP servers and AI agents. Trust scores, vulnerability tracking, and install commands. `npx -y @knyazevai/mcp-catalog`
 - <img src="https://cdn.simpleicons.org/brave/FB542B" height="14"/> [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web search capabilities using Brave's Search API
 - <img src="https://github.com/user-attachments/assets/5d9346e8-7821-4202-80cd-25e0678d3400" height="14"/> [Bright Data](https://github.com/luminati-io/brightdata-mcp) - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - <img src="https://avatars.githubusercontent.com/u/204530939?s=200&v=4" height="14"/> [Dumpling AI](https://github.com/Dumpling-AI/mcp-server-dumplingai) - Access data, web scraping, and document conversion APIs by [Dumpling AI](https://www.dumplingai.com/)
