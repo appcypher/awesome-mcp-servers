@@ -336,6 +336,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://cdn.simpleicons.org/python/3776AB" height="14"/> [TradeMemory](https://github.com/mnemox-ai/tradememory-protocol) - Three-layer trading memory for MT5/forex agents — stores trades, discovers patterns, and evolves strategies via MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- [TradeMemory](https://github.com/mnemox-ai/tradememory-protocol) - Persistent memory layer for AI trading agents. Outcome-weighted recall, behavioral analysis, and SHA-256 audit trail. 19 MCP tools.
 
 <br />
 
