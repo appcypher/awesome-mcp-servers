@@ -514,6 +514,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
   - Supports NPM-based servers
   - Automatic configuration generation
   - Easy server management
+- [Metorial](https://github.com/metorial/metorial) - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 - [mxcp](http://github.com/raw-labs/mxcp) - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
